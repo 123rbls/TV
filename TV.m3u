@@ -186,9 +186,6 @@ http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1, SBT Brasil 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1, VIVA Brasil 
-http://84.16.253.234:2082/S2S99999XTX5/Uf7r75t67/187
-
 #EXTINF:-1, Sony Channel Novelas
 https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
  
