@@ -165,6 +165,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1, Nueve TV 
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
 #EXTINF:-1, CA TV 
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
@@ -185,6 +188,12 @@ http://conexao-vs.live/GLOBO/index.m3u8
 
 #EXTINF:-1, SBT Brasil 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1, SIC Brasil 
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1, SIC Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
 #EXTINF:-1, Sony Channel Novelas
 https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
