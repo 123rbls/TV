@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Nickelodeon Channel, tvg-logo="https://i.imgur.com/BTIpMSl.png"
+#EXTINF:-1, tvg-logo="https://i.imgur.com/BTIpMSl.png" group-title="Nickelodeon en Español", Nickelodeon 
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1, tvg-name="Clan Internacional Channel", tvg-logo="https://i.imgur.com/03jFV68.png"
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Clan Internacional Channel",  Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="Love Nature", Love Nature
