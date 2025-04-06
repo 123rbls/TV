@@ -1,27 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo ="https://i.imgur.com/TMXYZ3r.png" Historia 
+#EXTINF:-1, tvg-logo ="https://i.imgur.com/TMXYZ3r.png", Historia 
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/BTIpMSl.png", NNickelodeon en Español 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/BTIpMSl.png", Nickelodeon en Español 
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Clan Internacional Channel",  Clan Internacional
+#EXTINF:-1, tvg-logo="https://i.imgur.com/03jFV68.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="Love Nature", Love Nature
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
  
-#EXTINF:-1, Love Nature 4K
+#EXTINF:-1, tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1, Oxígeno TV
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
  
 #EXTINF:-1, Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
- 
-#EXTINF:-1, TV Naturaleza
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/vUHAWAJ.png",TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
 #EXTINF:-1, Clarity 4k
