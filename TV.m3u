@@ -1,11 +1,10 @@
 #EXTM3U
-
 #EXTINF:-1,Nickelodeon Channel, tvg-logo="https://i.imgur.com/BTIpMSl.png"
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1, tvg-name="Clan Internacional Channel", tvg-logo="https://i.imgur.com/03jFV68.png"
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1, Love Nature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="Love Nature", Love Nature
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
  
 #EXTINF:-1, Love Nature 4K
@@ -19,6 +18,9 @@ https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+
+#EXTINF:-1, Clarity 4k
+https://jmp2.uk/sam-USBA3800005NI.m3u8
 
 #EXTINF:-1, Chile TV 
 https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -196,6 +198,9 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
   
 #EXTINF:-1, Hallmark Channel Español 
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, AMC en Español 
+https://jmp2.uk/sam-USBD7000017L.m3u8
  
 #EXTINF:-1, AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
@@ -250,6 +255,9 @@ https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 
 #EXTINF:-1, Microvisión 10
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1, Cine de Oro
+https://jmp2.uk/sam-USBD2700005KL.m3u8
 
 #EXTINF:-1, Filmex (Xumo)
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
