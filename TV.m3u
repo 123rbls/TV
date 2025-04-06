@@ -27,10 +27,10 @@ https://jmp2.uk/sam-USBA3800005NI.m3u8
 #EXTINF:-1, Chile TV 
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/File:Canal_5_HN_logo_2019.png", Canal 5 Honduras
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal5Honduras2019.png/revision/latest?cb=20190527022453", Canal 5 Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
  
-#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/File:Canal11HN2010.png", Canal 11 Honduras 
+#EXTINF:-1, tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png", Canal 11 Honduras 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="https://www.lencatelevision.com/logo/external", Lenca TV Honduras
@@ -44,23 +44,17 @@ https://mediacp.us:8081/504tvhn/index.m3u8
  
 #EXTINF:-1, Metro TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
- 
-#EXTINF:-1, RCV TV
-https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
- 
-#EXTINF:-1, TV Copán 
-https://s.emisoras.tv:8081/tvcopan/index.m3u8
- 
-#EXTINF:-1, Canal 2 SV
+  
+#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/286/897/png-clipart-splatoon-2-television-tcs-canal-2-youtube-organization-5-miscellaneous-television.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
  
-#EXTINF:-1, Canal 3 SV
+#EXTINF:-1, tvg-logo="https://canal3impresionante.com/wp-content/uploads/2024/04/LOGO-CANAL-3-sin-fondo-ni-contorno.png", Canal 3 Impresionante El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
  
-#EXTINF:-1, Canal 4 SV
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal4_sv.png", Canal 4 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
  
-#EXTINF:-1, Canal 6 SV
+#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/File:Canal_6_TCS.png", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1, TCS+ SV
