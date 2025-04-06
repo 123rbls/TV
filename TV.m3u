@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Nickelodeon.Esp" tvg-name="Nickelodeon Channel" tvg-logo="https://i.imgur.com/BTIpMSl.png" group-title="Nickelodeon | Español",Esp| Nickelodeon 
+#EXTINF:-1 tvg-name="Nickelodeon Channel" tvg-logo="https://i.imgur.com/BTIpMSl.png" 
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.Esp" tvg-name="Nickelodeon Channel" tvg-logo="https://i.imgur.com/BTIpMSl.png" group-title="Nickelodeon | Español",Esp| Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon Channel" tvg-logo="https://i.imgur.com/BTIpMSl.png"
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Clan.Esp" tvg-name="Clan Internacional Channel" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Clan | Español",Esp| Clan Internacional
+#EXTINF:-1 tvg-name="Clan Internacional Channel" tvg-logo="https://i.imgur.com/03jFV68.png"
 #EXTINF:-1, Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
