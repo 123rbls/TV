@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png", Historia 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_de_Historia.png", Historia 
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg", Nickelodeon en Español 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png", Nickelodeon en Español 
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/715/664/png-clipart-clan-rtve-television-channel-la-1-animation-purple-television.png", Clan Internacional
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature
@@ -48,7 +48,7 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
  
-#EXTINF:-1, tvg-logo="https://canal3impresionante.com/wp-content/uploads/2024/04/LOGO-CANAL-3-sin-fondo-ni-contorno.png", Canal 3 Impresionante El Salvador
+#EXTINF:-1, tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1024x868.png", Canal 3 Impresionante El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", Canal 4 El Salvador
@@ -60,10 +60,10 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1, TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1, Canal 11 SV 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png", Canal 11 El Salvador
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
  
-#EXTINF:-1, Canal 12 SV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
  
 #EXTINF:-1, Megavision 19 SV
