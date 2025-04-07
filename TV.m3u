@@ -6,7 +6,7 @@ https://jmp2.uk/sam-US2600019IC.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png", Nickelodeon en Español 
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature
@@ -93,13 +93,13 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/antena3new.png", Antena 3 España
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png", Telecinco España
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/telecinco.png", Telecinco España
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
  
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png", Cuatro España
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/cuatro.png", Cuatro España
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Logo_TVE-Internacional.svg/revision/latest?cb=20210619015201", TVE Internacional America
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/tve.png", TVE Internacional America
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", Tve Star
