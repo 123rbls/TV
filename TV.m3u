@@ -12,7 +12,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature 4k
+#EXTINF:-1, tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
  
 #EXTINF:-1, Naturaleza Salvaje 
@@ -45,16 +45,16 @@ https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1, Metro TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
   
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/286/897/png-clipart-splatoon-2-television-tcs-canal-2-youtube-organization-5-miscellaneous-television.png", Canal 2 El Salvador
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
  
 #EXTINF:-1, tvg-logo="https://canal3impresionante.com/wp-content/uploads/2024/04/LOGO-CANAL-3-sin-fondo-ni-contorno.png", Canal 3 Impresionante El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal4_sv.png", Canal 4 El Salvador
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", Canal 4 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
  
-#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/File:Canal_6_TCS.png", Canal 6 SV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/800px-Canal_6_TCS.png", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1, TCS+ SV
