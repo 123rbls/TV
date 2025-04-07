@@ -105,22 +105,22 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", Tve Star
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1, Telemadrid
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/telemadrid.png",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
  
 #EXTINF:-1, 8 Madrid TV
 http://185.189.225.150:85/8madrid/index.m3u8
  
-#EXTINF:-1, La Sexta España
+#EXTINF:-1, tvg-logo="https://liveurl.xyz/img8461/new/lasexta.png", La Sexta España
 http://185.189.225.150:85/LaSexta/index.m3u8
 
-#EXTINF:-1, Mega España 
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/mega.png", Mega España 
 http://185.189.225.150:85/mega/index.m3u8
  
-#EXTINF:-1, Neox España 
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/neox.png", Neox España 
 http://185.189.225.150:85/neox/index.m3u8
  
-#EXTINF:-1, Nova España
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/nova.png", Nova España
 http://185.189.225.150:85/nova/index.m3u8
 
 #EXTINF:-1, Spectrum Channel
