@@ -141,22 +141,22 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
-#EXTINF:-1, Estrella TV
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
  
-#EXTINF:-1, Estrella TV
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, Estrella TV
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, Mega TV
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/megatv.png", Mega TV
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
-#EXTINF:-1, America TV 
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/americateve.png", America TV 
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
-#EXTINF:-1, America TV
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/americateve.png", America TV
 https://live.gideo.video/americateve2/master.m3u8
  
 #EXTINF:-1, Canela TV
@@ -177,10 +177,10 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1, Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1, SIC Brasil 
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/png/sic.png", SIC Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1, SIC Replay
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/png/sic.png", SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
 #EXTINF:-1, Sony Channel Novelas
@@ -264,7 +264,7 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1, DW En Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
-#EXTINF:-1, RT En Español
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/rt.png", RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1, CGTN Español
