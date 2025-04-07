@@ -90,7 +90,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://images.cdn-files-a.com/uploads/2287839/400_62422efda1998.png", Nueve TV México 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1920px-Antena_3_2025_%28sin_wordmark%29.svg.png", Antena 3 España
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/antena3new.png", Antena 3 España
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png", Telecinco España
