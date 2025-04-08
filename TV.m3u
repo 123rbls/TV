@@ -21,8 +21,11 @@ https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="",TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
-#EXTINF:-1, Clarity 4k
-https://jmp2.uk/sam-USBA3800005NI.m3u8
+#EXTINF:-1, tvg-logo="", Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+
+#EXTINF:-1, Aventura
+https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, Chile TV 
 https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -158,9 +161,15 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/americateve.png", America TV
 https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1, tvg-logo="", CNN Español
+https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="", CNN Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1, Canela TV México
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
 
 #EXTINF:-1, CA TV 
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
@@ -196,7 +205,7 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, AMC en Español 
-https://jmp2.uk/sam-USBD7000017L.m3u8
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1, AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
@@ -252,8 +261,8 @@ https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 #EXTINF:-1, Microvisión 10
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1, Cine de Oro
-https://jmp2.uk/sam-USBD2700005KL.m3u8
+#EXTINF:-1, Cine Clasico
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
 
 #EXTINF:-1, Filmex (Xumo)
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
