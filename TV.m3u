@@ -15,7 +15,7 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1, tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
  
-#EXTINF:-1, Naturaleza Salvaje 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/23VgTJ96/Naturaleza-Salvaje.png", Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="",TV Naturaleza
@@ -159,7 +159,7 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/megatv.png", Mega TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/x8CpYgRW/MegaTV.png", Mega TV
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/americateve.png", America TV 
