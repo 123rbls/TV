@@ -24,6 +24,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:-1, tvg-logo="", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png", National Geographic Wild 
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/8DG32GQ5/DC-2022.png", Discovery Channel 
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
 #EXTINF:-1, Aventura
 https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 
@@ -192,9 +198,12 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/png/sic.png", SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1, Sony Channel Novelas
-https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
- 
+#EXTINF:-1, tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg", HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/nqLpqjJc/HBO-Family-logo.png", HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+
 #EXTINF:-1, Sony Channel Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
