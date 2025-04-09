@@ -9,13 +9,13 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="http://liveurl.xyz/img8461/new/lovenature.png", Love Nature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", Love Nature 4k
+#EXTINF:-1, tvg-logo="https://i.ibb.co/0yWJLNr2/Love-Nature.png", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="https://i.ibb.co/23VgTJ96/Naturaleza-Salvaje.png", Naturaleza Salvaje 
+#EXTINF:-1, tvg-logo="", Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="",TV Naturaleza
