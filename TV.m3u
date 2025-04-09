@@ -6,7 +6,7 @@ https://jmp2.uk/sam-US2600019IC.m3u8
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/nickelodeon.png", Nickelodeon en Español 
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/clan.png", Clan Internacional
+#EXTINF:-1, tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
@@ -99,7 +99,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://images.cdn-files-a.com/uploads/2287839/400_62422efda1998.png", Nueve TV México 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/14.png", Canal 14
+#EXTINF:-1, tvg-logo="https://i.ibb.co/HDW8wzBS/Canal14.png", Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/antena3new.png", Antena 3 España
