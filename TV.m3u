@@ -135,10 +135,10 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/nova.png", Nova España
 http://185.189.225.150:85/nova/index.m3u8
 
-#EXTINF:-1, Spectrum Channel
+#EXTINF:-1, tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
-#EXTINF:-1, 24 Horas Internacional España
+#EXTINF:-1, tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24 Horas Internacional España
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/telemundo.png", Telemundo North East 
@@ -147,7 +147,7 @@ https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/telemundo.png", Telemundo  Puerto Rico 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
  
-#EXTINF:-1, Telemundo Acción
+#EXTINF:-1, tvg-logo="https://i.ibb.co/d0pRV8hG/Telemundo-Accion.png", Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
