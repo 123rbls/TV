@@ -27,7 +27,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Wpx7MCM4/National-Geographic-Wild-Logo-2019-svg.png", National Geographic Wild 
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/RTNdDrnT/2019-Discovery-logo-svg.png", Discovery Channel 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1, Aventura
@@ -207,19 +207,19 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1, Sony Channel Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
-#EXTINF:-1, Star Channel Central America 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/LDRJNBPM/Star-Channel-1.png", Star Channel Central America 
 https://streamer1.nexgen.bz/STAR/index.m3u8
   
-#EXTINF:-1, Hallmark Channel Español 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/PsgyYXJ2/Hallmart-Channel.png", Hallmark Channel Español 
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, AMC en Español 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español 
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
  
-#EXTINF:-1, AMC España
+#EXTINF:-1, tvg-logo="https://i.ibb.co/6RG6pfLp/amc.png", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
  
-#EXTINF:-1, Paramount Network España
+#EXTINF:-1, tvg-logo="https://i.ibb.co/6JntMmk0/Paramount-Network.png", Paramount Network España
 http://185.189.225.150:85/Paramount/index.m3u8
  
 #EXTINF:-1, AXN Latino
@@ -234,7 +234,7 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1, MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
  
-#EXTINF:-1, MyTime Movie Network México
+#EXTINF:-1, tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", MyTime Movie Network México
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Neox 
@@ -246,7 +246,7 @@ http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1, Next Channel
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1, Imagen Universal TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Y76S28Zp/UITV.png", Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
  
 #EXTINF:-1, Canal Más Televisión
