@@ -198,10 +198,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/png/sic.png", SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg", HBO East
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Fkmrxv2F/HBO.png", HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/nqLpqjJc/HBO-Family-logo.png", HBO Family
+#EXTINF:-1, tvg-logo="https://i.ibb.co/4nf8Hb0X/HBOFamily.png", HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1, Sony Channel Cine
