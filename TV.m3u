@@ -27,6 +27,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 #EXTINF:-1, tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", National Geographic Wild 
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
+#EXTINF:-1, tvg-logo="", Animal Planet
+http://xxip25.top:8080/m1pA6E/285356/57377
+
 #EXTINF:-1, tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
@@ -141,6 +144,19 @@ https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24 Horas Internacional España
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1, tvg-logo="", Univision
+http://xxip25.top:8080/m1pA6E/285356/15336
+
+#EXTINF:-1, tvg-logo="", Unimas
+http://xxip25.top:8080/m1pA6E/285356/57969
+
+
+#EXTINF:-1, tvg-logo="", Galavision
+http://xxip25.top:8080/m1pA6E/285356/58770
+
+#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/telemundo.png", Telemundo North East 
+http://xxip25.top:8080/m1pA6E/285356/56410
+
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/telemundo.png", Telemundo North East 
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 
@@ -174,6 +190,9 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1, tvg-logo="https://i.ibb.co/k22JTf9y/Logo-de-CNN-en-Espa-ol-2010-2015-svg.png", CNN Español
 https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/k22JTf9y/Logo-de-CNN-en-Espa-ol-2010-2015-svg.png", CNN México
+http://xxip25.top:8080/m1pA6E/285356/57619
+
 #EXTINF:-1, Canela TV México
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
 
@@ -186,17 +205,26 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Telecolor TV 
 https://live.obslivestream.com/telecolormux/index.m3u8
 
+#EXTINF:-1, tvg-logo="", Caracol Internacional
+http://xxip25.top:8080/m1pA6E/285356/78701
+
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/venevision.png", Venevición Internacional 
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1, Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="", Globo Brasil
+http://xxip25.top:8080/m1pA6E/285356/21020
+
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/png/sic.png", SIC Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/png/sic.png", SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Fkmrxv2F/HBO.png", HBO East
+http://xxip25.top:8080/m1pA6E/285356/9264
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Fkmrxv2F/HBO.png", HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
