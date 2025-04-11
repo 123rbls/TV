@@ -28,7 +28,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1, tvg-logo="", Animal Planet
-http://xxip25.top:8080/m1pA6E/285356/57377
+https://raw.githubusercontent.com/123rbls/TV/refs/heads/main/APlanet.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
