@@ -147,7 +147,6 @@ http://xxip25.top:8080/m1pA6E/285356/15336
 #EXTINF:-1, tvg-logo="", Unimas
 http://xxip25.top:8080/m1pA6E/285356/57969
 
-
 #EXTINF:-1, tvg-logo="", Galavision
 http://xxip25.top:8080/m1pA6E/285356/58770
 
@@ -229,8 +228,8 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/4nf8Hb0X/HBOFamily.png", HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1, Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1, SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1, Sony Channel Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
