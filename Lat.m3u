@@ -36,7 +36,7 @@ https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, TV Chile CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, Canal 5 El Lider HN
+#EXTINF:-1, Canal5ElLider.hn
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
  
 #EXTINF:-1, Canal 11 Honduras 
@@ -93,7 +93,7 @@ https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1, Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
-#EXTINF:-1, Canal Once MX
+#EXTINF:-1,CanalOnce.mx
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1, Nueve TV México
@@ -111,7 +111,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1, Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1, TVE 
+#EXTINF:-1, TVE Internacional América ES
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
 #EXTINF:-1, Star Tve MX
@@ -186,7 +186,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1, CNN Español
 https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, CNN Español
+#EXTINF:-1, CNN MX
 http://xxip25.top:8080/m1pA6E/285356/57619
 
 #EXTINF:-1, Canela TV
@@ -282,7 +282,7 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1, BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
  
-#EXTINF:-1, Cine Terror
+#EXTINF:-1, PlutoTVCineTerror.mx
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
  
 #EXTINF:-1, Cine En Español
