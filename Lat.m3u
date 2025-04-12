@@ -102,16 +102,16 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1, Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
-#EXTINF:-1, Antena 3 España
+#EXTINF:-1, Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
-#EXTINF:-1, Telecinco España
+#EXTINF:-1, Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
  
-#EXTINF:-1, Cuatro España
+#EXTINF:-1, Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1, TVE Internacional América ES
+#EXTINF:-1, TVE 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
 #EXTINF:-1, Tve Star
@@ -144,7 +144,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1, Unimás
+#EXTINF:-1, Unimás US
 http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1, Galavision
@@ -162,13 +162,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
+#EXTINF:-1,  Estrella TV
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
  
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
+#EXTINF:-1,  Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/estrellatv.png", Estrella TV
+#EXTINF:-1,  Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Mega TV
