@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Historia Español
+#EXTINF:-1, Historia Channel
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1, Nickelodeon
@@ -30,13 +30,13 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1, Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1, Aventura WB
+#EXTINF:-1, PlutoTV Aventura MX
 https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Chile TV 
+#EXTINF:-1, TV Chile CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, Canal 5 Honduras
+#EXTINF:-1, Canal 5 El Lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
  
 #EXTINF:-1, Canal 11 Honduras 
@@ -93,7 +93,7 @@ https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1, Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
-#EXTINF:-1, Once Internacional 
+#EXTINF:-1, Canal Once MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1, Nueve TV México
@@ -114,10 +114,10 @@ http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1, TVE 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
-#EXTINF:-1, Tve Star ES
+#EXTINF:-1, Star Tve MX
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1, Telemadrid
+#EXTINF:-1, Telemadrid ES
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
  
 #EXTINF:-1, 8Madrid
@@ -144,7 +144,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1, Unimas USA
+#EXTINF:-1, UniMás US
 http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1, Galavision
@@ -162,19 +162,19 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
-#EXTINF:-1,  EstrellaTV
+#EXTINF:-1,  Estrella TV US 
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
  
-#EXTINF:-1,  Estrella
+#EXTINF:-1,  Estrella TV US 
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1,  Estrella
+#EXTINF:-1,  Estrella TV US
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
-#EXTINF:-1, America US
+#EXTINF:-1, América TeVé US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
 #EXTINF:-1, America USA
