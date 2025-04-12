@@ -9,7 +9,7 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1, Clan
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1, Love Nature Esp
+#EXTINF:-1, Love Nature Español
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
  
 #EXTINF:-1, Love Nature
@@ -36,13 +36,13 @@ https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Chile TV 
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, Canal 5 El Lider
+#EXTINF:-1, Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
  
 #EXTINF:-1, Canal 11 Honduras 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
  
-#EXTINF:-1, LencaTV
+#EXTINF:-1, Lenca HN
 https://lencatelevision.com/hls/stream.m3u8
  
 #EXTINF:-1, TSi
@@ -57,7 +57,7 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1, Canal 2  SV 
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
  
-#EXTINF:-1, Canal 3 Impresionante
+#EXTINF:-1, Canal 3 SV
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
  
 #EXTINF:-1, Canal 4 SV
@@ -75,10 +75,10 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1, Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
  
-#EXTINF:-1, Megavision 19
+#EXTINF:-1, Megavision 19 SV
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
  
-#EXTINF:-1, Megavision 21
+#EXTINF:-1, Megavision 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 #EXTINF:-1, WOW TV
@@ -90,13 +90,13 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1, Super Channel 12
 https://servilive.com:3263/live/channel12live.m3u8
 
-#EXTINF:-1, Azteca
+#EXTINF:-1, TV Azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
-#EXTINF:-1, Once
+#EXTINF:-1, Once MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1, Nueve TV
+#EXTINF:-1, Nueve MX
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 #EXTINF:-1, Canal 14
@@ -114,13 +114,13 @@ http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1, TVE 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
-#EXTINF:-1, Tve Star
+#EXTINF:-1, Tve Star ES
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1, Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
  
-#EXTINF:-1, 8Madrid TV
+#EXTINF:-1, 8Madrid
 http://185.189.225.150:85/8madrid/index.m3u8
  
 #EXTINF:-1,  La Sexta
@@ -138,13 +138,13 @@ http://185.189.225.150:85/nova/index.m3u8
 #EXTINF:-1, Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
-#EXTINF:-1, 24h
+#EXTINF:-1, 24h ES
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1, Unimás US
+#EXTINF:-1, Unimas US
 http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1, Galavision
@@ -162,22 +162,22 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
-#EXTINF:-1,  Estrella TV
+#EXTINF:-1,  Estrella US
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
  
-#EXTINF:-1,  Estrella TV
+#EXTINF:-1,  Estrella US
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1,  Estrella TV
+#EXTINF:-1,  Estrella US
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, Mega TV
+#EXTINF:-1, Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
-#EXTINF:-1, America TV 
+#EXTINF:-1, America TV US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
-#EXTINF:-1, America TV
+#EXTINF:-1, America TV US
 https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1, CNN Español
@@ -186,7 +186,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1, CNN Español
 https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, CNN México
+#EXTINF:-1, CNN MX
 http://xxip25.top:8080/m1pA6E/285356/57619
 
 #EXTINF:-1, Canela TV
@@ -198,19 +198,19 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1, El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1, Telecolor
+#EXTINF:-1, Telecolor PE
 https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1, Caracol
 http://xxip25.top:8080/m1pA6E/285356/78701
 
-#EXTINF:-1, Venevición
+#EXTINF:-1, Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1, Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1, Globo Brasil
+#EXTINF:-1, Globo
 http://xxip25.top:8080/m1pA6E/285356/21020
 
 #EXTINF:-1, SIC 
@@ -273,10 +273,10 @@ http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1, Next Channel
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/Y76S28Zp/UITV.png", Imagen Universal TV
+#EXTINF:-1,  Imagen Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
  
-#EXTINF:-1, Canal Más Televisión
+#EXTINF:-1, Canal Más
 https://movil.ejeserver.com/live/teledoradahd.m3u8
  
 #EXTINF:-1, BBC Drama
@@ -285,34 +285,34 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 #EXTINF:-1, Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
  
-#EXTINF:-1, tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
+#EXTINF:-1, Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
 #EXTINF:-1, INPO TV
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 
-#EXTINF:-1, Microvisión 10
+#EXTINF:-1, Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1, Cine Clasico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
 
-#EXTINF:-1, Filmex (Xumo)
+#EXTINF:-1, Filmex Xumo
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Filmex Clásico
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, DW En Español 
+#EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
-#EXTINF:-1, tvg-logo="http://liveurl.xyz/img8461/new/rt.png", RT En Español
+#EXTINF:-1, RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1, CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
  
-#EXTINF:-1, La Mega Mundial TV 
+#EXTINF:-1, La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
  
 #EXTINF:-1, VH1
