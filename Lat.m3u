@@ -3,16 +3,13 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
-#EXTINF:-1, Clan
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1, Love Nature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
- 
-#EXTINF:-1, Love Nature
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yWJLNr2/Love-Nature.png", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
