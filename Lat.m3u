@@ -150,7 +150,7 @@ http://xxip25.top:8080/m1pA6E/285356/15336
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
-#EXTINF:-1 tvg-id="Galavision.us" tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision
+#EXTINF:-1 tvg-id="Gala.us" tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision
 http://xxip25.top:8080/m1pA6E/285356/58770
 
 #EXTINF:-1, Telemundo
@@ -164,14 +164,14 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
  
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
- 
-#EXTINF:-1,  Estrella
+
+#EXTINF:-1 tvg-id="Estrella" tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
  
-#EXTINF:-1,  Estrella
+#EXTINF:-1 tvg-id="Estrella" tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1,  Estrella
+#EXTINF:-1 tvg-id="Estrella" tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Mega TV US
