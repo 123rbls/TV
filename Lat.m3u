@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
