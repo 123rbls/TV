@@ -93,7 +93,7 @@ https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1, Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
-#EXTINF:0 tvg-name="oncemexico" tvg-country="MX" avg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" , Once Mexico
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1, Nueve TV México
