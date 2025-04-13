@@ -144,7 +144,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" ,UniMas East
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1, Galavision
