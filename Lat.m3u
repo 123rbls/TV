@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png",Historia
+#EXTINF:-1 tvg-id="Historia" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png",Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1, Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1, Clan
@@ -30,7 +30,7 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1, Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="Lencatv.hn" tvg-logo="https://www.lencatelevision.com/img/logo.png", Lenca TV
+#EXTINF:-1 tvg-id="Aventura" tvg-logo="https://www.lencatelevision.com/img/logo.png", Aventura
 https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, TV Chile CL
