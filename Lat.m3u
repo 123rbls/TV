@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Historia.ca" tvg-name="Historia"
+#EXTINF:-1, Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1, Nickelodeon
@@ -9,7 +9,7 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1, Clan
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1, Love Nature MX
+#EXTINF:-1, Love Nature
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
  
 #EXTINF:-1, Love Nature
@@ -36,7 +36,7 @@ https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, TV Chile CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, tvg-id="Canal5ElLider.hn" tvg-name="Canal 5 EL lider"
+#EXTINF:-1, Canal 5 EL lider
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
  
 #EXTINF:-1, Canal 11 Honduras 
@@ -111,13 +111,13 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1, Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1, TVE Internacional América ES
+#EXTINF:-1, Tve
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
-#EXTINF:-1, Star Tve MX
+#EXTINF:-1, Star Tve 
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1, Telemadrid ES
+#EXTINF:-1, Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
  
 #EXTINF:-1, 8Madrid
@@ -165,22 +165,22 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
  
-#EXTINF:-1,  EstrellaTV
+#EXTINF:-1,  Estrella
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
  
-#EXTINF:-1,  EstrellaTV
+#EXTINF:-1,  Estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1,  EstrellaTV
+#EXTINF:-1,  Estrella
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
-#EXTINF:-1, AméricaTV US
+#EXTINF:-1, America TV US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
-#EXTINF:-1, AmericaTV USA
+#EXTINF:-1, America TV US
 https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1, CNN Español
@@ -189,11 +189,8 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1, CNN Español
 https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, CNN MX
+#EXTINF:-1, CNN Spanish 
 http://xxip25.top:8080/m1pA6E/285356/57619
-
-#EXTINF:-1, Canela TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
 
 #EXTINF:-1, CA TV 
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
@@ -201,13 +198,10 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1, El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1, Telecolor PE
-https://live.obslivestream.com/telecolormux/index.m3u8
-
 #EXTINF:-1, Caracol
 http://xxip25.top:8080/m1pA6E/285356/78701
 
-#EXTINF:-1, Canal Venevisión
+#EXTINF:-1, Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1, Kanal D Drama
@@ -240,16 +234,16 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, Star Channel
 https://streamer1.nexgen.bz/STAR/index.m3u8
   
-#EXTINF:-1, Hallmark Español
+#EXTINF:-1, Hallmark Channel
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, AMC Spanish
+#EXTINF:-1, AMC ES
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1, AMC 
 http://vegafibratv.com:8085/AMC/index.m3u8
  
-#EXTINF:-1, Paramount Network
+#EXTINF:-1, Paramount Network ES
 http://185.189.225.150:85/Paramount/index.m3u8
  
 #EXTINF:-1, AXN
@@ -258,34 +252,25 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1, FX 
 http://fl2.moveonjoy.com/FX/index.m3u8
  
-#EXTINF:-1, FX Latino
+#EXTINF:-1, FX MX
 https://streamer1.nexgen.bz/FX/index.m3u8
  
-#EXTINF:-1, MGM Plus
+#EXTINF:-1, MGM MX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
  
-#EXTINF:-1, My Time Movie Network
+#EXTINF:-1, My Time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
- 
-#EXTINF:-1, Canal 37 Neox
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
  
 #EXTINF:-1, Bom Cine
 http://185.189.225.150:85/BOM/index.m3u8
  
 #EXTINF:-1, Next
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1,  IU TV 
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
- 
-#EXTINF:-1, MAS TV 
-https://movil.ejeserver.com/live/teledoradahd.m3u8
  
 #EXTINF:-1, BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
  
-#EXTINF:-1, PlutoTVCineTerror.mx
+#EXTINF:-1, CineTerror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
  
 #EXTINF:-1, Cine En Español
