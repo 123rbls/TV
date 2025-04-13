@@ -57,7 +57,7 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
  
-#EXTINF:-1, tvg-logo="https://i.ibb.co/jZsvRxV9/LOGO-CANAL-3-sin-fondo-ni-contorno.png", Canal 3 Impresionante El Salvador
+#EXTINF:-1, tvg-logo="https://i.ibb.co/RGBLDdWG/Canal3-Impresionante.png", Canal 3 Impresionante El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4 El Salvador
