@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Hchannel.us" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia
+#EXTINF:-1 tvg-id="History.us" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1 tvg-id="Lencatv.hn" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia 
+#EXTINF:-1 tvg-id="Historia.us" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia 
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1 tvg-id="Nickchannel.es" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
@@ -237,7 +237,7 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1, Hallmark Channel
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, AMC ES
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1, AMC 
