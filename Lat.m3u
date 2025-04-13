@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CanalHistoria" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png",Historia
+#EXTINF:-1 tvg-id="Hchannel.us" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1 tvg-id="canalH" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1 tvg-id="canalNickelodeon" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
+#EXTINF:-1 tvg-id="Nickchannel.es" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1, Clan
@@ -27,7 +27,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:-1, Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
-#EXTINF:-1, Nat Geo Wild 
+#EXTINF:-1 tvg-id="National.us" tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", Nat Geo Wild 
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1, Discovery Channel 
@@ -254,11 +254,12 @@ http://fl2.moveonjoy.com/FX/index.m3u8
  
 #EXTINF:-1, FX MX
 https://streamer1.nexgen.bz/FX/index.m3u8
- 
-#EXTINF:-1, MGM MX
+
+#EXTINF:-1 tvg-id="mgmplus.es" tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", MGM MX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
- 
-#EXTINF:-1, My Time Network
+
+
+#EXTINF:-1 tvg-id="MyTimeMovie.MX" tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Bom Cine
