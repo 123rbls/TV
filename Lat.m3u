@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Historia.ca
+#EXTINF:-1, tvg-id="Historia.ca" tvg-name="Historia"
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1, Nickelodeon
@@ -36,7 +36,7 @@ https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, TV Chile CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, Canal5ElLider.hn
+#EXTINF:-1, tvg-id="Canal5ElLider.hn" tvg-name="Canal 5 EL lider"
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
  
 #EXTINF:-1, Canal 11 Honduras 
