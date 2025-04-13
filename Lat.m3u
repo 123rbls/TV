@@ -1,18 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yWJLNr2/Love-Nature.png", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1, Naturaleza Salvaje 
@@ -24,9 +18,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:-1, Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", Nat Geo Wild 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", Nat Geo Wild 
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery en Inglés
 #EXTINF:-1, Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
@@ -294,7 +289,13 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1, CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
 #EXTINF:-1, La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
  
