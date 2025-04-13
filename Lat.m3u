@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1, Clan
@@ -12,7 +12,7 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1, Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1, Naturaleza Salvaje 
