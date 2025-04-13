@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Hchannel.us" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1 tvg-id="canalH" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia
+#EXTINF:-1 tvg-id="Lencatv.hn" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png", Historia 
 https://jmp2.uk/sam-US2600019IC.m3u8
 
 #EXTINF:-1 tvg-id="Nickchannel.es" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
@@ -150,7 +150,7 @@ http://xxip25.top:8080/m1pA6E/285356/15336
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
-#EXTINF:-1, Galavision
+#EXTINF:-1 tvg-id="Galavision.us" tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision
 http://xxip25.top:8080/m1pA6E/285356/58770
 
 #EXTINF:-1, Telemundo
