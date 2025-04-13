@@ -69,7 +69,7 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1, TCS SV
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1, Canal 11 TU TV
+#EXTINF:-1 tvg-id="Canal11.sv" tvg-logo="http://www.canal11.com.sv/logo11.png",Canal 11 TU TV
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
  
 #EXTINF:-1, Canal 12 SV
