@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="CanalHistoria" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png",Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 
+#EXTINF:-1 tvg-id="CanalHistoria" tvg-logo="https://i.ibb.co/xKrHxpYS/Historia-2022-logo-webp.png",Historia
+https://jmp2.uk/sam-US2600019IC.m3u8
+
 #EXTINF:-1 tvg-id="canalNickelodeon" tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
@@ -45,7 +48,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="Lencatv.hn" tvg-logo="https://www.lencatelevision.com/img/logo.png", Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
  
-#EXTINF:-1, TSI HN
+#EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1, Canal 504 Honduras
