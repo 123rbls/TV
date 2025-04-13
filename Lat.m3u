@@ -138,7 +138,7 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1, Nova
 http://185.189.225.150:85/nova/index.m3u8
 
-#EXTINF:-1, Spectrum Channel
+#EXTINF:-1 tvg-id="Spectrum.es" tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
 #EXTINF:-1, Canal 24h 
