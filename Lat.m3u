@@ -77,8 +77,8 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
  
 #EXTINF:-1, Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
- 
-#EXTINF:-1, Canal 19 SV
+
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/XfD2FWSp/Canal19-SV.png", Canal 19 SV
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
  
 #EXTINF:-1, Canal 21 SV
