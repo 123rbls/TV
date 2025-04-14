@@ -15,21 +15,17 @@ https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
-#EXTINF:-1, Nature Time
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dxnpFSF/Nature-Time.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", Nat Geo Wild 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", National Geographic Wild en Inglés
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery en Inglés
-#EXTINF:-1, Discovery Channel 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YWc1d7q/1000010341.png", Aventura TV 
 https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, TV Chile CL
-https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -43,22 +39,18 @@ https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
-#EXTINF:-1, Canal 504 Honduras
-https://mediacp.us:8081/504tvhn/index.m3u8
- 
-#EXTINF:-1, Metro TV HD
-https://s.emisoras.tv:8081/metrotv/index.m3u8
-  
-#EXTINF:-1, Canal 2 SV 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="Canal3.sv" tvg-logo="https://i.ibb.co/RGBLDdWG/Canal3-Impresionante.png", Canal 3 El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
- 
-#EXTINF:-1, Canal 4 SV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4 El Salvador 
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
- 
-#EXTINF:-1, Canal 6  SV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgCNFvHr/Canal6.png", Canal 6 El Salvador 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1, TCS SV
@@ -66,8 +58,8 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 #EXTINF:-1 tvg-id="Canal11.sv" tvg-logo="http://www.canal11.com.sv/logo11.png",Canal 11 TU TV
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
- 
-#EXTINF:-1, Canal 12 SV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6kQQx7t/Canal12.png", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://i.ibb.co/XfD2FWSp/Canal19-SV.png", Canal 19 SV
