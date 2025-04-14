@@ -49,11 +49,10 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4 El Salvador 
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgCNFvHr/Canal6.png", Canal 6 El Salvador 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
-#EXTINF:-1, TCS SV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+ El Salvador
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png",Canal 11 TU TV
@@ -64,8 +63,9 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XfD2FWSp/Canal19-SV.png", Canal 19  El Salvador
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
- 
-#EXTINF:-1, Canal 21 SV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZgSBCRY/Canal21.png", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 #EXTINF:-1, W TV SV
@@ -122,19 +122,19 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1, Nova
 http://185.189.225.150:85/nova/index.m3u8
 
-#EXTINF:-1 tvg-id="Spectrum.es" tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
-#EXTINF:-1, Canal 24h 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", Canal 24h Internacional
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
-#EXTINF:-1 tvg-id="Gala.us" tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://xxip25.top:8080/m1pA6E/285356/58770
 
 #EXTINF:-1, Telemundo
@@ -149,13 +149,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="Estrella" tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
-https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
- 
-#EXTINF:-1 tvg-id="Estrella" tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
+#EXTINF:-1 tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Estrella" tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
+#EXTINF:-1 tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://estrellatv-oando.amagi.tv/playlist.m3u8
  
 #EXTINF:-1, Mega TV US
