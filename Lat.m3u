@@ -217,6 +217,9 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1, AMC 
 http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RG6pfLp/amc.png",AMC Europa Español 
+http://181.78.109.48:8000/play/a02l/index.m3u8
  
 #EXTINF:-1, Paramount Network ES
 http://185.189.225.150:85/Paramount/index.m3u8
@@ -230,7 +233,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1, FX MX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", MGM MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", MGM en Español
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
