@@ -284,7 +284,7 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/logo_mobile.png", EXA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P8Md3CP/EXATV.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYgKQPLr/TeleHit.png", TELEHIT
