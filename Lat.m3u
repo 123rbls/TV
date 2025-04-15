@@ -144,9 +144,6 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1, Univision
-https://raw.githubusercontent.com/123rbls/TV/refs/heads/main/Uni.m3u
-
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
@@ -198,7 +195,7 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1, El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1, Caracol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn7X0N0D/Caracol.png", Caracol
 http://xxip25.top:8080/m1pA6E/285356/78701
 
 #EXTINF:-1, Venevisión
@@ -213,10 +210,10 @@ http://xxip25.top:8080/m1pA6E/285356/21020
 #EXTINF:-1, Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1, HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fkmrxv2F/HBO.png", HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1, HBO Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nf8Hb0X/HBOFamily.png", HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
