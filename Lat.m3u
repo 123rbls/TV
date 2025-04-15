@@ -260,11 +260,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1, Free TV Clasico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
 
-#EXTINF:-1, Filmex
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
- 
-#EXTINF:-1, Filmex
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1, De Película
+http://190.60.38.114:1010/play/a08f/index.m3u
  
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -280,6 +277,12 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/logo_mobile.png", EXA TV
+https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
 #EXTINF:-1, La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
