@@ -33,6 +33,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", National Geographic Wild en Inglés
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery en Inglés
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
@@ -50,7 +53,6 @@ https://lencatelevision.com/hls/stream.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
@@ -75,7 +77,6 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XfD2FWSp/Canal19-SV.png", Canal 19  El Salvador
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZgSBCRY/Canal21.png", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
@@ -217,6 +218,9 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:CinecanalLA.png", Cine Canal
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1, SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
