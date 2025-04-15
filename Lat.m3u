@@ -154,7 +154,10 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://estrellatv-oando.amagi.tv/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=600&imdensity=1", Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
 #EXTINF:-1, Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
@@ -278,11 +281,11 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/logo_mobile.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYgKQPLr/TeleHit.png", TELEHIT
+https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 
 #EXTINF:-1, La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
