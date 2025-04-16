@@ -171,9 +171,6 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.estrellatv.com/themes/custom/est/estrella_tv/img/logotipo-blanco.svg", Estrella
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=600&imdensity=1", Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-
 #EXTINF:-1, Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
@@ -240,10 +237,10 @@ https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
  
-#EXTINF:-1, AMC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png",AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RG6pfLp/amc.png",AMC Europa Español 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png",AMC Latino 
 http://181.78.109.48:8000/play/a02l/index.m3u8
  
 #EXTINF:-1, Paramount Network ES
