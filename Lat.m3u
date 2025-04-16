@@ -81,16 +81,16 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZgSBCRY/Canal21.png", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1, W TV SV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/zHjxM2bY/WOWTV.png", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
  
-#EXTINF:-1, 8NTV MX
+#EXTINF:-1, tvg-logo="https://www.ntv.com.mx/wp-content/uploads/2023/03/NTVPlus.png", 8NTV México
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1, Canal 12 MX
+#EXTINF:-1, tvg-logo="https://superchannel12.com/images/logos/superchannel12.com/dark.png?",SuperChannel 12 México
 https://servilive.com:3263/live/channel12live.m3u8
 
-#EXTINF:-1, Azteca Internacional
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
