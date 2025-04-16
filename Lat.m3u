@@ -99,13 +99,13 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/wrYckkcp/NorteV.png", Norte Visión
 http://amaru.dyndns.org:8870/0.m3u8
  
-#EXTINF:-1, Nueve TV México
+#EXTINF:-1, tvg-logo="https://i.ibb.co/zL2BpG8/NueveTV.png", Nueve TV México
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-#EXTINF:-1, 14 Mexico 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/HDW8wzBS/Canal14.png", 14 Mexico 
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
-#EXTINF:-1, Antena 3
+#EXTINF:-1, tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
 #EXTINF:-1, Telecinco
@@ -126,16 +126,16 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1, 8Madrid
 http://185.189.225.150:85/8madrid/index.m3u8
  
-#EXTINF:-1,  La Sexta
+#EXTINF:-1, tvg-logo="https://i.ibb.co/pBCN7HhK/LaSexta.png", La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 
-#EXTINF:-1, Mega 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/cSzq0jWR/Mega.png", Mega 
 http://185.189.225.150:85/mega/index.m3u8
  
-#EXTINF:-1, Neox
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Ndjsmynr/Neox.png", Neox
 http://185.189.225.150:85/neox/index.m3u8
  
-#EXTINF:-1, Nova
+#EXTINF:-1, tvg-logo="https://i.ibb.co/RkcwSVcy/nova.png", Nova
 http://185.189.225.150:85/nova/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
