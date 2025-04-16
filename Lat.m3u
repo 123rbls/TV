@@ -1,4 +1,4 @@
-#EXTM3U
+2#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
@@ -96,6 +96,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/wrYckkcp/NorteV.png", Norte Visión
+http://amaru.dyndns.org:8870/0.m3u8
+ 
 #EXTINF:-1, Nueve TV México
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
@@ -318,14 +321,5 @@ https://streamer1.nexgen.bz/VH1/index.m3u8
 #EXTINF:-1, Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
  
-#EXTINF:-1, Norte Visión
-http://amaru.dyndns.org:8870/0.m3u8
- 
 #EXTINF:-1, Noroeste TV 
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-
-#EXTINF:-1,VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
- 
-#EXTINF:-1, 002 Radio TV
-https://cdn.002radio.com:3909/live/radio002live.m3u8
