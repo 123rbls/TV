@@ -243,10 +243,10 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png",AMC Latino 
 http://181.78.109.48:8000/play/a02l/index.m3u8
  
-#EXTINF:-1, tvg-logo="https://i.ibb.co/rGZz7jD5/Paramount.png" Paramount Network España 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/rGZz7jD5/Paramount.png", Paramount Network España 
 http://185.189.225.150:85/Paramount/index.m3u8
  
-#EXTINF:-1, tvg-logo="AXN
+#EXTINF:-1, tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
  
 #EXTINF:-1, FX 
