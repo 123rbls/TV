@@ -21,6 +21,9 @@ https://jmp2.uk/sam-US2600019IC.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
 http://185.189.225.150:85/La2HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="", La Otra España 
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
 #EXTINF:-1, Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 
@@ -92,8 +95,11 @@ https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
  
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
+#EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/wrYckkcp/NorteV.png", Norte Visión
@@ -107,6 +113,9 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Atres Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
  
 #EXTINF:-1,  tvg-logo="https://i.ibb.co/wNtdGxV3/Telecinco.png", Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
@@ -120,7 +129,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1, Star Tve 
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1, Telemadrid
+#EXTINF:-1 tvg-logo="", Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
  
 #EXTINF:-1, 8Madrid
@@ -302,6 +311,9 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan España
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P8Md3CP/EXATV.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
