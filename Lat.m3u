@@ -114,7 +114,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1, tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png" Tve
+#EXTINF:-1, tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
 #EXTINF:-1, Star Tve 
@@ -180,13 +180,13 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1, America TV US
 https://live.gideo.video/americateve2/master.m3u8
 
-#EXTINF:-1, CNN Español
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
  
-#EXTINF:-1, CNN Español
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, CNN Spanish 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Spanish 
 http://xxip25.top:8080/m1pA6E/285356/57619
 
 #EXTINF:-1, CA TV 
