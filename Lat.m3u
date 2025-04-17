@@ -150,6 +150,9 @@ https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", Canal 24h Internacional
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="", Univision
+https://tvpass.org/live/UnivisionEast/sd
+
 #EXTINF:-1, Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
@@ -158,6 +161,9 @@ http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://xxip25.top:8080/m1pA6E/285356/58770
+
+#EXTINF:-1 tvg-logo="",AMC Telemundo
+https://tvpass.org/live/TelemundoEast/sd
 
 #EXTINF:-1, Telemundo
 http://xxip25.top:8080/m1pA6E/285356/56410
