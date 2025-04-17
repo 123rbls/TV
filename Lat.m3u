@@ -108,13 +108,13 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
-#EXTINF:-1, Telecinco
+#EXTINF:-1,  tvg-logo="https://i.ibb.co/rfqf8VzX/Telecinco.png", Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
  
-#EXTINF:-1, Cuatro 
+#EXTINF:-1,  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1, Tve
+#EXTINF:-1, tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png" Tve
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
  
 #EXTINF:-1, Star Tve 
