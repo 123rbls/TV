@@ -114,7 +114,7 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
-#EXTINF:-1,  tvg-logo="https://i.ibb.co/wNtdGxV3/Telecinco.png", Telecinco
+#EXTINF:-1,  tvg-logo="https://i.ibb.co/ymCPzRCd/Telecinco.png", Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
  
 #EXTINF:-1,  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
@@ -126,7 +126,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1, Star Tve 
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-logo="", Telemadrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35hcNXK2/Telemadrid-svg.png", Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
  
 #EXTINF:-1, 8Madrid
