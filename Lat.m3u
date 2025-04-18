@@ -30,7 +30,7 @@ https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dxnpFSF/Nature-Time.png", Nature Time
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFBhJwSc/Nature-Time.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", National Geographic Wild en Inglés
