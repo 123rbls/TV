@@ -156,16 +156,16 @@ https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1,tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://xxip25.top:8080/m1pA6E/285356/58770
 
-#EXTINF:-1 tvg-logo="", Telemundo East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 https://tvpass.org/live/TelemundoEast/sd
 
-#EXTINF:-1, Telemundo East
+#EXTINF:-1, tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 http://xxip25.top:8080/m1pA6E/285356/56410
 
 #EXTINF:-1, Telemundo Noticias
