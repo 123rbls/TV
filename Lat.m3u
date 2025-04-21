@@ -162,16 +162,16 @@ http://xxip25.top:8080/m1pA6E/285356/57969
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://xxip25.top:8080/m1pA6E/285356/58770
 
-#EXTINF:-1 tvg-logo="",AMC Telemundo
+#EXTINF:-1 tvg-logo="", Telemundo East
 https://tvpass.org/live/TelemundoEast/sd
 
-#EXTINF:-1, Telemundo
+#EXTINF:-1, Telemundo East
 http://xxip25.top:8080/m1pA6E/285356/56410
 
-#EXTINF:-1, Telemundo
+#EXTINF:-1, Telemundo Noticias
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Telemundo 
+#EXTINF:-1, Telemundo Puerto Rico 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
  
 #EXTINF:-1, Telemundo Acción
@@ -186,10 +186,10 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1, Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
-#EXTINF:-1, America TV US
+#EXTINF:-1, tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
-#EXTINF:-1, America TV US
+#EXTINF:-1, tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
 https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
