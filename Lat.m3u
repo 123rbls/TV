@@ -171,7 +171,7 @@ http://xxip25.top:8080/m1pA6E/285356/56410
 #EXTINF:-1, tvg-logo="https://i.ibb.co/23hsXwCM/Telemundo-N.png", Telemundo Noticias
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo ="https://i.ibb.co/Xky4LYP1/Telemundo-PR.png", Telemundo Puerto Rico 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Xky4LYP1/Telemundo-PR.png", Telemundo Puerto Rico 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
  
 #EXTINF:-1, tvg-logo="https://i.ibb.co/ZpztDTjP/Telemundo.png", Telemundo Acción
