@@ -174,7 +174,7 @@ https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, Telemundo Puerto Rico 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
  
-#EXTINF:-1, Telemundo Acción
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ZpztDTjP/Telemundo.png", Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella
