@@ -150,10 +150,10 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Univision
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
 https://tvpass.org/live/UnivisionEast/sd
 
-#EXTINF:-1, Univision
+#EXTINF:-1,tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" ,UniMas East
