@@ -168,7 +168,7 @@ https://tvpass.org/live/TelemundoEast/sd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 http://xxip25.top:8080/m1pA6E/285356/56410
 
-#EXTINF:-1, Telemundo Noticias
+#EXTINF:-1, tvg-logo="https://i.ibb.co/23hsXwCM/Telemundo-N.png", Telemundo Noticias
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, Telemundo Puerto Rico 
