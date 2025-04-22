@@ -297,10 +297,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/
 #EXTINF:-1, De Película
 http://190.60.38.114:1010/play/a08f/index.m3u
  
-#EXTINF:-1, DW
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
-#EXTINF:-1, RT En Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
