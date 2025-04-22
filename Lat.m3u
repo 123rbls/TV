@@ -204,13 +204,13 @@ http://xxip25.top:8080/m1pA6E/285356/57619
 #EXTINF:-1, CA TV 
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
-#EXTINF:-1, El Trece 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn7X0N0D/Caracol.png", Caracol
 http://xxip25.top:8080/m1pA6E/285356/78701
 
-#EXTINF:-1, Venevisión
+#EXTINF:-1, tvg-logo="https://i.ibb.co/pBNtp7k0/Venevision.png", Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1, Kanal D Drama
