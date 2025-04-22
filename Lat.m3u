@@ -1,4 +1,4 @@
-22#EXTM3U
+222#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
@@ -294,7 +294,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1, Free TV Clasico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
 
-#EXTINF:-1, De Película
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tcZyj0r/DPelicula.png", De Película
 http://190.60.38.114:1010/play/a08f/index.m3u
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
