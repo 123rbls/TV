@@ -234,7 +234,7 @@ https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:CinecanalLA.png", Cine Canal
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1, SYFY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdHqBp1z/Syfy.png", SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1, Sony Channel
@@ -285,7 +285,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 #EXTINF:-1, CineTerror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
  
-#EXTINF:-1, Cine En Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
 #EXTINF:-1, Microvisión
