@@ -294,7 +294,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1, Free TV Clasico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tcZyj0r/DPelicula.png", De Película
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jP7CcH3S/DPelicula.png", De Película
 http://190.60.38.114:1010/play/a08f/index.m3u
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
