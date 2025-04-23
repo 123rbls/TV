@@ -333,5 +333,5 @@ https://streamer1.nexgen.bz/VH1/index.m3u8
 #EXTINF:-1, Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
  
-#EXTINF:-1, Noroeste TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxrJsZgy/Music.png", Music
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
