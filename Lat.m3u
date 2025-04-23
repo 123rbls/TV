@@ -306,7 +306,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1, CGTN Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKbGygCq/CGTN.png", CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
