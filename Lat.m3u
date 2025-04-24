@@ -189,7 +189,7 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Mega TV US
+#EXTINF:-1 tvg-logo="", Mega TV US
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
