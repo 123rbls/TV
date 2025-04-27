@@ -18,6 +18,9 @@ https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
 https://jmp2.uk/sam-US2600019IC.m3u8
 
+#EXTINF:-1 tvg-logo="",Historia Y Vida
+https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://i.ibb.co/spd51vFY/Lovetheplanet.png", Love the Planet
 https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
 
@@ -200,6 +203,12 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
 https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-logo="", Canela TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
