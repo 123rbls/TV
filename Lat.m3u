@@ -280,7 +280,7 @@ http://181.78.109.48:8000/play/a02l/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
-https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+http://181.78.109.48:8000/play/a05u/index.m3u8
  
 #EXTINF:-1, FX 
 http://fl2.moveonjoy.com/FX/index.m3u8
