@@ -153,8 +153,14 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkcwSVcy/nova.png", Nova
 http://185.189.225.150:85/nova/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Factoría De Ficción 
+http://185.189.225.150:85/fdf/index.m3u8
+
 #EXTINF:-1, tvg-logo="", Televisión Canaria
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745700510/ei/PvIMaLzfN9epkucPhLzQoQE/ip/68.196.7.23/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYY_gkD9yuW8JSoy57rJlPsqsRNYXbZMo7vnZnosgItp3kcE7pjdgGZ5DE4R9nrvYWqOeptR17s/spc/wk1kZv3p6I-nldm7El7oMFOPnOvpJACd8NLYZKHVdUAWwTE2YhZbmunIjU42O13sbsZ8lpw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBiYI2w_pxL8YnEmFPH6jW8ohaCDzis8fde2F-pbeHSICIQCaCAfEihQ_ivUUar0y42lWcBEoiLjFztVrDdU2H5nqCA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", Canal 24h Internacional
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
