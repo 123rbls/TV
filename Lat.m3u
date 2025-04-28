@@ -249,6 +249,9 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1 tvg-logo="", SIC Brasil
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 
+#EXTINF:-1 tvg-logo="", TV Brasil 
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1, Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
