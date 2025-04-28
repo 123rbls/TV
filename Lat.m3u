@@ -110,9 +110,6 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrYckkcp/NorteV.png", Norte Visión
-http://amaru.dyndns.org:8870/0.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zL2BpG8/NueveTV.png", Nueve TV México
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
@@ -248,6 +245,9 @@ http://xxip25.top:8080/m1pA6E/285356/21020
 
 #EXTINF:-1, tvg-logo="", Rede Brasil 
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", SIC Brasil
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 
 #EXTINF:-1, Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
