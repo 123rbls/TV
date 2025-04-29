@@ -117,6 +117,9 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDW8wzBS/Canal14.png", 14 Mexico 
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Telemax
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
  
