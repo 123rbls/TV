@@ -15,6 +15,9 @@ https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 en Español
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
 https://jmp2.uk/sam-US2600019IC.m3u8
 
