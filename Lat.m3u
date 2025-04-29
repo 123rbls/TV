@@ -228,9 +228,6 @@ https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Spanish 
 http://xxip25.top:8080/m1pA6E/285356/57619
 
-#EXTINF:-1, CA TV 
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -258,8 +255,8 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TVC Petropolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
-#EXTINF:-1, Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="", EPIX 2
+https://fl5.moveonjoy.com/EPIX_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fkmrxv2F/HBO.png", HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
