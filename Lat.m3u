@@ -166,7 +166,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
-https://tvpass.org/live/UnivisionEast/sd
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
 http://xxip25.top:8080/m1pA6E/285356/15336
@@ -191,7 +191,10 @@ https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xky4LYP1/Telemundo-PR.png", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xky4LYP1/Telemundo-PR.png", Punto 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpztDTjP/Telemundo.png", Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
