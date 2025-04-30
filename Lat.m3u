@@ -1,4 +1,17 @@
-#EXTM3U
+#EXTM3U 
+
+............................KIDS TV CHANNEL............................
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan España
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+........................DOCUMENTARY TV CHANNEL.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
@@ -45,9 +58,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFBhJwSc/Nature-Time.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bcBcwzR/NatWild.png", National Geographic Wild en Inglés
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
@@ -67,6 +77,8 @@ https://lencatelevision.com/hls/stream.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+
+.........................EL SALVADOR TV CHANNEL..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 El Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
@@ -97,7 +109,9 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHjxM2bY/WOWTV.png", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
- 
+
+..........................MEXICO TV CHANNEL.........................
+
 #EXTINF:-1 tvg-logo="https://www.ntv.com.mx/wp-content/uploads/2023/03/NTVPlus.png", 8NTV México
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
@@ -106,9 +120,6 @@ https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -121,6 +132,8 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Telemax
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+
+........................ESPAÑA TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
@@ -161,7 +174,7 @@ http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1, tvg-logo="", Televisión Canaria
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745700510/ei/PvIMaLzfN9epkucPhLzQoQE/ip/68.196.7.23/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYY_gkD9yuW8JSoy57rJlPsqsRNYXbZMo7vnZnosgItp3kcE7pjdgGZ5DE4R9nrvYWqOeptR17s/spc/wk1kZv3p6I-nldm7El7oMFOPnOvpJACd8NLYZKHVdUAWwTE2YhZbmunIjU42O13sbsZ8lpw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBiYI2w_pxL8YnEmFPH6jW8ohaCDzis8fde2F-pbeHSICIQCaCAfEihQ_ivUUar0y42lWcBEoiLjFztVrDdU2H5nqCA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="",Distrito TV
+#EXTINF:-1 tvg-logo="", Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", Canal 24h Internacional
@@ -169,6 +182,8 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJs5wQht/SCHTV.png", Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
+
+.......................ESTADOS UNIDOS TV CHANNEL...................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
@@ -184,9 +199,6 @@ http://xxip25.top:8080/m1pA6E/285356/58770
 
 #EXTINF:-1 tvg-logo="", Comedia Central En Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 http://xxip25.top:8080/m1pA6E/285356/56410
@@ -206,18 +218,9 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Mega TV US
-https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
-https://live.gideo.video/americateve2/master.m3u8
-
 #EXTINF:-1 tvg-logo="", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8
 
@@ -226,12 +229,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
-https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Spanish 
-http://xxip25.top:8080/m1pA6E/285356/57619
+.....................SUR AMERICA TV CHANNEL....................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -242,12 +241,13 @@ http://xxip25.top:8080/m1pA6E/285356/78701
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBNtp7k0/Venevision.png", Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
-
 #EXTINF:-1 tvg-logo="", Play Televisión
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsK1QkcQ/Kanal-D-Drama.png", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+..........................BRASIL TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xf5q8bhS/Globo.png", Globo
 http://xxip25.top:8080/m1pA6E/285356/21020
@@ -264,23 +264,16 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TVC Petropolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
+...........................MOVIES TV CHANNEL......................
+
 #EXTINF:-1 tvg-logo="", EPIX 2
 https://fl5.moveonjoy.com/EPIX_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fkmrxv2F/HBO.png", HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nf8Hb0X/HBOFamily.png", HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:CinecanalLA.png", Cine Canal
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdHqBp1z/Syfy.png", SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1, Sony Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -309,9 +302,6 @@ http://181.78.109.48:8000/play/a05u/index.m3u8
 #EXTINF:-1, FX MX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", MGM en Español
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -336,7 +326,6 @@ https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist
 #EXTINF:-1, Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="", WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
@@ -358,26 +347,10 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKbGygCq/CGTN.png", CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan España
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+........................MUSIC TV CHANNEL.......................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P8Md3CP/EXATV.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYgKQPLr/TeleHit.png", TELEHIT
-https://streamer1.nexgen.bz/TELEHIT/index.m3u8
-
-#EXTINF:-1, La Mega Mundial
-https://server40.servistreaming.com:3477/stream/play.m3u8
- 
-#EXTINF:-1, VH1
-https://streamer1.nexgen.bz/VH1/index.m3u8
 
 #EXTINF:-1, Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
