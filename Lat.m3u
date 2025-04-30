@@ -64,6 +64,18 @@ https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YWc1d7q/1000010341.png", Aventura TV 
 https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKbGygCq/CGTN.png", CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 .........................HONDURAS TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", Canal 5 El Líder
@@ -335,18 +347,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jP7CcH3S/DPelicula.png", De Película
 http://190.60.38.114:1010/play/a08f/index.m3u
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKbGygCq/CGTN.png", CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
 ........................MUSIC TV CHANNEL.......................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P8Md3CP/EXATV.png", EXA TV
