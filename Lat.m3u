@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan España
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
@@ -316,9 +313,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkktLcvL/BomCine.png", Bom Cine
-http://185.189.225.150:85/BOM/index.m3u8
  
 #EXTINF:-1 tvg-logo="", MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
