@@ -110,16 +110,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 ..........................MEXICO TV CHANNEL.........................
 
-#EXTINF:-1 tvg-logo="https://www.ntv.com.mx/wp-content/uploads/2023/03/NTVPlus.png", 8NTV México
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://superchannel12.com/images/logos/superchannel12.com/dark.png?",SuperChannel 12 México
-https://servilive.com:3263/live/channel12live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
-
 ........................ESPAÑA TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
