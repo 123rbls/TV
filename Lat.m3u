@@ -136,7 +136,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
  
-#EXTINF:-1 tvg-logo="", Factoría De Ficción 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZtwKZZZ/FF.png", Factoría De Ficción 
 http://185.189.225.150:85/fdf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsK1QkcQ/Kanal-D-Drama.png", Kanal D Drama
