@@ -5,8 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan España
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 ........................DOCUMENTARY TV CHANNEL.........................
 
@@ -42,12 +40,6 @@ https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.t
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/xKz6qzLq/Lovewine.png", Love Wine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
-http://185.189.225.150:85/La2HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20fjrMdF/LaOtra.png", La Otra
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1, Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
@@ -133,41 +125,15 @@ https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
-#EXTINF:-1 tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/once-mexico-horizontal.webp", Once Mexico
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zL2BpG8/NueveTV.png", Nueve TV México
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDW8wzBS/Canal14.png", 14 Mexico 
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Telemax
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 ........................ESPAÑA TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
- 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ymCPzRCd/Telecinco.png", Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
- 
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
 http://185.189.225.150:85/CuatroHD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nLGgLz3/startve.png", Star Tve 
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35hcNXK2/Telemadrid-svg.png", Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ccnnpbr/8Madrid.png", 8Madrid
-http://185.189.225.150:85/8madrid/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBCN7HhK/LaSexta.png", La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 
@@ -179,13 +145,34 @@ http://185.189.225.150:85/neox/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkcwSVcy/nova.png", Nova
 http://185.189.225.150:85/nova/index.m3u8
-
+ 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ymCPzRCd/Telecinco.png", Telecinco
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+ 
 #EXTINF:-1 tvg-logo="", Factoría De Ficción 
 http://185.189.225.150:85/fdf/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nLGgLz3/startve.png", Star Tve 
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-logo="", Distrito TV
-https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
+http://185.189.225.150:85/La2HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYVfBZdb/Tve-clan.png", Clan España
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35hcNXK2/Telemadrid-svg.png", Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20fjrMdF/LaOtra.png", La Otra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ccnnpbr/8Madrid.png", 8Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", Canal 24h Internacional
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
