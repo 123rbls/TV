@@ -125,23 +125,23 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
-http://185.189.225.150:85/CuatroHD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBCN7HhK/LaSexta.png", La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzq0jWR/Mega.png", Mega 
-http://185.189.225.150:85/mega/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ndjsmynr/Neox.png", Neox
 http://185.189.225.150:85/neox/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkcwSVcy/nova.png", Nova
 http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzq0jWR/Mega.png", Mega 
+http://185.189.225.150:85/mega/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ymCPzRCd/Telecinco.png", Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
+http://185.189.225.150:85/CuatroHD/index.m3u8
  
 #EXTINF:-1 tvg-logo="", Factoría De Ficción 
 http://185.189.225.150:85/fdf/index.m3u8
