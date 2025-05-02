@@ -1,11 +1,5 @@
 #EXTM3U 
 
-............................KIDS TV CHANNEL............................
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxwt8WgH/Nickelodeon.png", Nick en Español
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
-
 ........................DOCUMENTARY TV CHANNEL.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
