@@ -11,12 +11,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
-https://streamer1.nexgen.bz/HISTORY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 en Español
-https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
@@ -98,9 +92,6 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kQQx7t/Canal12.png", Canal 12 El Salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfD2FWSp/Canal19-SV.png", Canal 19  El Salvador
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZgSBCRY/Canal21.png", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
@@ -186,9 +177,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 http://xxip25.top:8080/m1pA6E/285356/56410
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/23hsXwCM/Telemundo-N.png", Telemundo Noticias
-https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xky4LYP1/Telemundo-PR.png", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
@@ -246,9 +234,6 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
 ...........................MOVIES TV CHANNEL......................
 
-#EXTINF:-1 tvg-logo="", EPIX 2
-https://fl5.moveonjoy.com/EPIX_2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
@@ -279,7 +264,7 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 http://181.78.109.48:8000/play/a05u/index.m3u8
   
-#EXTINF:-1, FX MX
+#EXTINF:-1, FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
@@ -287,10 +272,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
- 
-#EXTINF:-1 tvg-logo="", MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
- 
+  
 #EXTINF:-1, BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
  
