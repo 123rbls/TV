@@ -70,12 +70,6 @@ https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MyqnBkh7/Girasol.png", Girasol TV
-https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PG05bKf2/TMas.png", Tele+
-https://viewhn.com/telemas/live/playlist.m3u8
-
 .........................EL SALVADOR TV CHANNEL..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 El Salvador
@@ -243,7 +237,7 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:CinecanalLA.png", Cine Canal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", Cine Canal
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1, Sony Channel
