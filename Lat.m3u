@@ -296,6 +296,9 @@ http://190.60.38.114:1010/play/a08f/index.m3u
  
 ........................MUSIC TV CHANNEL.......................
 
+#EXTINF:-1 tvg-logo="", VEVO Latino 
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P8Md3CP/EXATV.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
