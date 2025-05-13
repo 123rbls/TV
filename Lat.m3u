@@ -304,3 +304,6 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxrJsZgy/Music.png", Music
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
