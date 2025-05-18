@@ -196,15 +196,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn7X0N0D/Caracol.png", Caracol
-http://xxip25.top:8080/m1pA6E/285356/78701
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBNtp7k0/Venevision.png", Venevisión
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-
-#EXTINF:-1 tvg-logo="", Play Televisión
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-
 ..........................BRASIL TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xf5q8bhS/Globo.png", Globo
