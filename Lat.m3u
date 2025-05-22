@@ -221,9 +221,6 @@ https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTINF:-1, Sony Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LDRJNBPM/Star-Channel-1.png", Star Channel
-https://streamer1.nexgen.bz/STAR/index.m3u8
-  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsgyYXJ2/Hallmart-Channel.png", Hallmark Channel
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
 
