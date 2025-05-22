@@ -242,7 +242,7 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Lifetime 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDJtSPDY/Lifetime.png", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
   
 #EXTINF:-1, BBC Drama
@@ -260,13 +260,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="", WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
-#EXTINF:-1, Free TV Clasico
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jP7CcH3S/DPelicula.png", De Película
-http://190.60.38.114:1010/play/a08f/index.m3u
-
-#EXTINF:-1 tvg-logo="", Frecuencia Musical TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27VwDBZw/FM.png", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
  
 ........................MUSIC TV CHANNEL.......................
