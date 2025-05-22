@@ -254,7 +254,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zpGz3J3/Microvision.png", Microvisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SLRQq4T/Microvision.png", Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", WTV Canal 20
