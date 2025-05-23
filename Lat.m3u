@@ -198,17 +198,14 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xf5q8bhS/Globo.png", Globo
 http://xxip25.top:8080/m1pA6E/285356/21020
 
-#EXTINF:-1, tvg-logo="", Rede Brasil 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/HDxP6VBR/Rede-Brasil.png", Rede Brasil 
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", TV Brasil 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksdPs9JN/TVBrasil.png", TV Brasil 
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="",TV Club
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPXxmsTq/TVClube.png",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", TVC Petropolis
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
 ...........................MOVIES TV CHANNEL......................
 
@@ -247,10 +244,7 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhTyq8tf/BBCDRAMA.png", BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
- 
-#EXTINF:-1, CineTerror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
- 
+  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
