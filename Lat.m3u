@@ -1,4 +1,4 @@
-2#EXTM3U 
+22#EXTM3U 
 
 ........................DOCUMENTARY TV CHANNEL.........................
 
@@ -182,7 +182,7 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NSCLjGH/Canela.png", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canela Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
 .....................SUR AMERICA TV CHANNEL....................
