@@ -71,9 +71,6 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGBLDdWG/Canal3-Impresionante.png", Canal 3 El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4 El Salvador 
-https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgCNFvHr/Canal6.png", Canal 6 El Salvador 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
@@ -270,5 +267,8 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxrJsZgy/Music.png", Music
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 
 
