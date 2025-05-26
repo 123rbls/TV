@@ -1,4 +1,4 @@
-#EXTM3U 
+2#EXTM3U 
 
 ........................DOCUMENTARY TV CHANNEL.........................
 
@@ -230,7 +230,7 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
   
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hNfCtqF/FX.png", FX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
