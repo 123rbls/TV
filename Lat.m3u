@@ -224,15 +224,12 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png",AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGZz7jD5/Paramount.png", Paramount Network España 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network España 
 http://185.189.225.150:85/Paramount/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
   
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", FX
-https://streamer1.nexgen.bz/FX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
