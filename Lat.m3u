@@ -230,6 +230,9 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPXxmsTq/TVClube.png",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
+#EXTINF:-1
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDg6Mjg6MTQgUE0maGFzaF92YWx1ZT1hNm1Pd21ITElQcG1HemZZT0pXUUZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjZjNTQ3ZGQtOTVjMy00ODZhLWE5YWEtNTMxYmRkZjY5YWI3/
+
 ...........................MOVIES TV CHANNEL......................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
