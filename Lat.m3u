@@ -227,10 +227,10 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 ..........................BRASIL TV CHANNEL........................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xf5q8bhS/Globo.png", Globo Bahia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q77VyB3X/Rede-Bahia.png", Globo Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xf5q8bhS/Globo.png", Globo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB5PBpzz/GloboPT.png", Globo Portugal
 http://cord-cutter.net:8080/25464931/30585186/164824?checkedby:alliptvlinks.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksdPs9JN/TVBrasil.png", TV Brasil 
