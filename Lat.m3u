@@ -83,6 +83,9 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
+#EXTINF:-1 tvg-logo="", Telecadena 7/4
+https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6sQsWPv/11HN.png", Canal 11 Honduras 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
  
@@ -92,6 +95,9 @@ https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
+#EXTINF:-1 tvg-logo="", HCH TV
+https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
+
 .........................EL SALVADOR TV CHANNEL..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 El Salvador
@@ -99,6 +105,9 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGBLDdWG/Canal3-Impresionante.png", Canal 3 El Salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 4 El Salvador
+http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgCNFvHr/Canal6.png", Canal 6 El Salvador 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
@@ -182,7 +191,7 @@ http://xxip25.top:8080/m1pA6E/285356/15336
 http://xxip25.top:8080/m1pA6E/285356/57969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
-http://xxip25.top:8080/m1pA6E/285356/58770
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
@@ -230,8 +239,14 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPXxmsTq/TVClube.png",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
-#EXTINF:-1
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDg6Mjg6MTQgUE0maGFzaF92YWx1ZT1hNm1Pd21ITElQcG1HemZZT0pXUUZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjZjNTQ3ZGQtOTVjMy00ODZhLWE5YWEtNTMxYmRkZjY5YWI3/
+#EXTINF:-1 tvg-logo="", Record TV 
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="", TVI Ficcao 
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Acesso Channel
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
 
 ...........................MOVIES TV CHANNEL......................
 
@@ -252,6 +267,9 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png",AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SYFY España
+http://185.189.225.150:85/syfy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network España 
 http://185.189.225.150:85/Paramount/index.m3u8
