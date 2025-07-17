@@ -43,9 +43,6 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
 https://jmp2.uk/sam-US2600019IC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fG4tS2yH/National-Geographic.png", National Geographic Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
 
@@ -131,7 +128,11 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nLFQtHg/Canal10.png", Canal 10 MX
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
+
 ........................ESPAÑA TV CHANNEL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
