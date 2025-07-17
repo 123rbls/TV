@@ -181,6 +181,9 @@ http://185.189.225.150:85/8madrid/index.m3u8
  
 .......................ESTADOS UNIDOS TV CHANNEL...................
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", UniMas East
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
@@ -190,6 +193,9 @@ http://xxip25.top:8080/m1pA6E/285356/15336
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 http://xxip25.top:8080/m1pA6E/285356/57969
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
@@ -197,7 +203,10 @@ http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
-http://xxip25.top:8080/m1pA6E/285356/56410
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xky4LYP1/Telemundo-PR.png", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
