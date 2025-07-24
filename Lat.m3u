@@ -103,6 +103,8 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nLFQtHg/Canal10.png", Canal 10 MX
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
 
 ...........................ESPAÑA............................
 
@@ -195,10 +197,25 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", A&E East
+https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-logo="", AMC East
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Antena TV
+https://fl3.moveonjoy.com/Antenna_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="", BBC America
+https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+
 ............................SUR AMERICA......................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Austral TV 
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 .............................BRASIL..........................
 
@@ -272,6 +289,12 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27VwDBZw/FM.png", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="", FX
+https://fl5.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="", FXM
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
 ............................MUSICA.........................
 
