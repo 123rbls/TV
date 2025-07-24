@@ -95,6 +95,9 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHjxM2bY/WOWTV.png", WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHjxM2bY/WOWTV.png", WOW TV El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 ..........................MEXICO TV CHANNEL.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
