@@ -46,6 +46,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 ...............................HONDURAS.........................
 
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", Canal 5 El Líder
@@ -93,6 +96,9 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 ...............................MEXICO.........................
+
+#EXTINF:-1 tvg-logo="", Televisa Novelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
