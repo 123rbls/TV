@@ -1,34 +1,5 @@
 #EXTM3U 
 
-........................MUSIC TV CHANNEL.......................
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
-https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvh6RyxK/TRayo.png", Telerayo
-https://s.emisoras.tv:8081/telerayo/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's K-Pop 
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Everything '80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Easy Listening 
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-
 ........................DOCUMENTARY TV CHANNEL.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
@@ -301,3 +272,33 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27VwDBZw/FM.png", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+........................MUSIC TV CHANNEL.......................
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
+https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvh6RyxK/TRayo.png", Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's K-Pop 
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Easy Listening 
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
