@@ -23,14 +23,8 @@ https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKQMTphB/NSalvaje.png",Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFBhJwSc/Nature-Time.png", Nature Time
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWc1d7q/1000010341.png", Aventura TV 
-https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
 
 ................................NOTICIAS..............................
 
@@ -147,9 +141,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
 http://185.189.225.150:85/La2HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="", TV Canarias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753911240/ei/aDuKaLuNMI-SkucPvsvziAw/ip/68.196.7.23/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51530741/txs/51530741%2C51530742%2C51530743%2C51530744%2C51530745%2C51530746%2C51530747%2C51530748%2C51530749/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMFZXpVf9GlRBJN55E-wCxfBZC_EPpN1dLDLuy5uNECeSigy_6dMB2n8_cRI0BijOpqm95a85Rd/spc/l3OVKYKehukCWdNIxWlzY4UzIbAzu8t1UBptjLLLNAT5cbycKPX5roSnetcjHl1ng2M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOd0_cWjy3hBeEVMjI6tAvLuidzNHCISbO4z6lFaxX6xAiEAmjTc5CXnKq92Us4LEug5tb-RmuQz-BVjOOPWPao0j40%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ccnnpbr/8Madrid.png", 8Madrid
 http://185.189.225.150:85/8madrid/index.m3u8
  
@@ -214,6 +205,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="", Austral TV 
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", INTV Bolivia
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+
 .............................BRASIL..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q77VyB3X/Rede-Bahia.png", TV Bahia
@@ -271,6 +265,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDJtSPDY/Lifetime.png", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
+https://fl3.moveonjoy.com/EPIX/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
@@ -284,11 +281,8 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Maravilla TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27VwDBZw/FM.png", Frecuencia Musical TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="", FX
-https://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", CineCanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
