@@ -26,6 +26,9 @@ https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fG4tS2yH/National-Geographic.png", National Geographic 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
 ................................NOTICIAS..............................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
@@ -185,9 +188,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", A&E East
-https://tvpass.org/live/AEEast/hd
-
 #EXTINF:-1 tvg-logo="", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
@@ -228,16 +228,13 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxvpkr0m/TVIficcao.png", TVI Ficcao 
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Acesso Channel
-https://streaming.cloudecast.com/hls/superflix/index.m3u8
-
 ...........................PELICULAS..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", Cine Canal
-https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -280,9 +277,6 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Maravilla TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", CineCanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
