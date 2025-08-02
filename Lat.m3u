@@ -188,11 +188,26 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", ion TV 
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ion Plus
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Mystery TV 
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Me TV
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Antena TV
-https://fl3.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-logo="", Comet TV
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+
+#EXTINF:-1 tvg-logo="", Grit TV
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 
 #EXTINF:-1 tvg-logo="", BBC America
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
