@@ -92,6 +92,9 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHjxM2bY/WOWTV.png", WOW TV SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", TeleMas Costa Rica
+https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+
 ...............................MEXICO.........................
 
 #EXTINF:-1 tvg-logo="", Televisa Novelas
