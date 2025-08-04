@@ -209,6 +209,9 @@ https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 #EXTINF:-1 tvg-logo="", Grit TV
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Comet TV
+https://fl3.moveonjoy.com/COMET/index.m3u8
+
 ............................SUR AMERICA......................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
