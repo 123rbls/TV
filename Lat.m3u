@@ -302,6 +302,9 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SLRQq4T/Microvision.png", Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Jimani TV 
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", Maravilla TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
