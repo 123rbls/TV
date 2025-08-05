@@ -98,6 +98,9 @@ https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="", Zurquí TV 
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
+#EXTINF:-1 tvg-logo="", Canal 10 Costa Rica 
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+
 ...............................MEXICO.........................
 
 #EXTINF:-1 tvg-logo="", Televisa Novelas
