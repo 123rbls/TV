@@ -200,6 +200,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Studio Universal Latin America 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
 #EXTINF:-1 tvg-logo="", ion TV 
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
 
