@@ -66,6 +66,9 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPHTzrrC/HCH.png", HCH TV
 https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Sula TV
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+
 .............................EL SALVADOR..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 SV
