@@ -230,9 +230,6 @@ https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Me TV
 https://fl3.moveonjoy.com/ME_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Me TV 
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-
 #EXTINF:-1 tvg-logo="", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
@@ -331,6 +328,9 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Maravilla TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Starz
+https://fl3.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
