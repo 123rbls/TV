@@ -214,6 +214,9 @@ https://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-logo="", ion Plus
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", CW Atlanta 
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="", Mystery TV 
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
