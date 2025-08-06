@@ -344,6 +344,9 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="", Discovery Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Sundance
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+
 ............................MUSICA.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
