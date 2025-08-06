@@ -301,9 +301,6 @@ https://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Telebruca
-https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SLRQq4T/Microvision.png", Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
