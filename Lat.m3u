@@ -209,6 +209,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 #EXTINF:-1 tvg-logo="", Studio Universal Latin America 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
+#EXTINF:-1 tvg-logo="", NBC 
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+
 #EXTINF:-1 tvg-logo="", ion TV 
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
 
@@ -243,9 +246,6 @@ https://fl3.moveonjoy.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Austral TV 
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", INTV Bolivia
 https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
