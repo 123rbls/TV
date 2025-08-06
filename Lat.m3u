@@ -109,9 +109,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nLFQtHg/Canal10.png", Canal 10 MX
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Visión Televisión
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-
 ...........................ESPAÑA............................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
