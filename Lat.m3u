@@ -181,6 +181,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 https://tvpass.org/live/TelemundoEast/hd
 
@@ -216,6 +217,9 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", CW Atlanta 
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="", USA Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Mystery TV 
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
