@@ -319,6 +319,9 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 tvg-logo="", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
+#EXTINF:-1 tvg-logo="", SYFY USA
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+
 ............................MUSICA.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
