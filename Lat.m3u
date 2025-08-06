@@ -243,6 +243,9 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", INTV Bolivia
 https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 
+#EXTINF:-1 tvg-logo="", Plus TV Ecuador
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
 .............................BRASIL..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q77VyB3X/Rede-Bahia.png", TV Bahia
@@ -306,12 +309,6 @@ https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SLRQq4T/Microvision.png", Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Jimani TV 
-https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Manaclar Televisión
-https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Maravilla TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
