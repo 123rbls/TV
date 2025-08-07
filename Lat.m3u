@@ -20,9 +20,6 @@ https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1G1hMR1J/Love-Planet.png", Love the Planet
 https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKQMTphB/NSalvaje.png",Naturaleza Salvaje 
-https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
@@ -66,9 +63,6 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPHTzrrC/HCH.png", HCH TV
 https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Sula TV
-https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-
 .............................EL SALVADOR..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 SV
@@ -85,18 +79,6 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kQQx7t/Canal12.png", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="", TeleMas Costa Rica
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Zurquí TV 
-https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-
-#EXTINF:-1 tvg-logo="", Canal 10 Costa Rica 
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
-
-#EXTINF:-1 tvg-logo="", TV Nosara Costa Rica
-https://latamvdo.com:3870/hybrid/play.m3u8
 
 ...............................MEXICO.........................
 
@@ -194,9 +176,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Studio Universal Latin America 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="", NBC 
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 
@@ -205,9 +184,6 @@ https://fl3.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="", ion Plus
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", CW Atlanta 
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="", USA Network
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
@@ -272,9 +248,6 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
-https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
  
@@ -287,11 +260,17 @@ http://185.189.225.150:85/syfy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network España 
 http://185.189.225.150:85/Paramount/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
+https://fl3.moveonjoy.com/EPIX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
+https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -299,11 +278,11 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDJtSPDY/Lifetime.png", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Studio Universal Latin America 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
 #EXTINF:-1 tvg-logo="", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
-https://fl3.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
@@ -322,9 +301,6 @@ https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="", SYFY USA
 https://fl3.moveonjoy.com/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Aurora Media Films 
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="", Discovery Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
