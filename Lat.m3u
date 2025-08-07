@@ -238,16 +238,13 @@ https://fl3.moveonjoy.com/COMET/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPDTm5t/ElTrece.png", El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="", INTV Bolivia
-https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
-
 #EXTINF:-1 tvg-logo="", Plus TV Ecuador
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 .............................BRASIL..........................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q77VyB3X/Rede-Bahia.png", TV Bahia
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k65850MH/Kuriakos.png",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB5PBpzz/GloboPT.png", Globo Portugal
 http://cord-cutter.net:8080/25464931/30585186/164824?checkedby:alliptvlinks.com
@@ -289,6 +286,9 @@ http://185.189.225.150:85/syfy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network España 
 http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
@@ -305,9 +305,6 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
 https://fl3.moveonjoy.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="", BBC Drama
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
