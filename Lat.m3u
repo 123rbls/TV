@@ -241,7 +241,7 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
@@ -277,22 +277,22 @@ https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBC4c12K/metv.png", Me TV
 https://fl3.moveonjoy.com/ME_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="", CMT East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8k0SRXX/CMT.png", CMT East
 https://fl3.moveonjoy.com/CMT/index.m3u8
 
-#EXTINF:-1 tvg-logo="", BBC America
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spsDBkWW/bbcA.png", BBC America
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Grit TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNrP3KQL/grit.png", Grit TV
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Comet TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRtMyMGD/Comet.png", Comet TV
 https://fl3.moveonjoy.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Starz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz
 https://fl3.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-logo="", FXM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cF7PkyY/FXM.png", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="", SYFY USA
@@ -304,7 +304,7 @@ https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="", Discovery Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Sundance
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4X0CxVy/sundance-tv-us.png", Sundance
 https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 
 
