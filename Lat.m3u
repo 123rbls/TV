@@ -238,11 +238,14 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 .............................USA INGLES........................
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
-https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtNXp4Zs/ion.png", ion Television
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
@@ -250,8 +253,17 @@ https://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymHqmjRg/IonPlus.png", ion Plus
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", USA Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/03yzYV0/CW.png", The CW
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Fox East
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
@@ -262,7 +274,7 @@ https://magnolia-cinelife.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Mystery TV 
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Me TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBC4c12K/metv.png", Me TV
 https://fl3.moveonjoy.com/ME_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="", CMT East
