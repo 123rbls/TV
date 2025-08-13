@@ -138,10 +138,10 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k65850MH/Kuriakos.png",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Globo Brasil 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvYNFfJ6/Globo.png", Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="", SBT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4GVqtx4/sbt.png", SBT
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB5PBpzz/GloboPT.png", Globo Portugal
@@ -172,9 +172,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png",AMC España
-http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -220,7 +217,7 @@ https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
 https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", CBS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBx84Sq/CBS.png", CBS
 https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", Fox East
@@ -238,7 +235,7 @@ https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VK1vW7z/amc.png", AMC East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpkRYnYb/amc.png", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
@@ -272,7 +269,7 @@ https://fl3.moveonjoy.com/STARZ/index.m3u8
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBPpS0LB/Syfy.png", SYFY USA
-https://fl3.moveonjoy.com/SYFY/index.m3u8
+https://fl3.moveonjoy.com/SYFY/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
