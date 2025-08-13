@@ -89,30 +89,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 ...........................ESPAÑA............................
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBCN7HhK/LaSexta.png", La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndjsmynr/Neox.png", Neox
-http://185.189.225.150:85/neox/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkcwSVcy/nova.png", Nova
-http://185.189.225.150:85/nova/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSzq0jWR/Mega.png", Mega 
-http://185.189.225.150:85/mega/index.m3u8
- 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ymCPzRCd/Telecinco.png", Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Ps5mSX7v/Cuatro.png", Cuatro 
-http://185.189.225.150:85/CuatroHD/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZtwKZZZ/FF.png", Factoría De Ficción 
-http://185.189.225.150:85/fdf/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
@@ -174,17 +150,11 @@ http://cord-cutter.net:8080/25464931/30585186/164824?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksdPs9JN/TVBrasil.png", TV Brasil 
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="", TVBrasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPXxmsTq/TVClube.png",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VZC6qjj/RecordTV.png", Record TV 
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="", Record TV 
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxvpkr0m/TVIficcao.png", TVI Ficcao 
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
@@ -208,9 +178,6 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdHqBp1z/Syfy.png", SYFY España
-http://185.189.225.150:85/syfy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network España 
 http://185.189.225.150:85/Paramount/index.m3u8
@@ -244,9 +211,6 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Maravilla TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Cinerama
-https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 
 .............................USA INGLES........................
 
