@@ -221,7 +221,7 @@ https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
-https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtNXp4Zs/ion.png", ion Television
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
@@ -232,13 +232,10 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/03yzYV0/CW.png", The CW
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Fox East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", Fox East
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
@@ -271,7 +268,7 @@ https://fl3.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cF7PkyY/FXM.png", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 tvg-logo="", SYFY USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBPpS0LB/Syfy.png", SYFY USA
 https://fl3.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network
