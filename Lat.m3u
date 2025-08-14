@@ -224,6 +224,9 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX04tLNj/A-E.png", A&E
+https://tvpass.org/live/AEEast/hd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
