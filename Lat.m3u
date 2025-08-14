@@ -192,9 +192,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SLRQq4T/Microvision.png", Microvisión
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-
 .............................USA INGLES........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
