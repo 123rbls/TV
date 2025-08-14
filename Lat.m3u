@@ -11,9 +11,6 @@ https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpHM7M0M/Historia.png", Historia en Español
-https://jmp2.uk/sam-US2600019IC.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
 
@@ -171,9 +168,6 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network España 
-http://185.189.225.150:85/Paramount/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
 https://fl3.moveonjoy.com/EPIX/index.m3u8
  
@@ -201,9 +195,6 @@ https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SLRQq4T/Microvision.png", Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Villla TV
-https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
 .............................USA INGLES........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
@@ -219,7 +210,7 @@ https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtNXp4Zs/ion.png", ion Television
-https://fl3.moveonjoy.com/ION_TV/index.m3u8
+https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymHqmjRg/IonPlus.png", ion Plus
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
