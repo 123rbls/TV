@@ -230,7 +230,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", CineLife
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wXr3fCS/CLife.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Mystery TV 
@@ -251,7 +251,7 @@ https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRtMyMGD/Comet.png", Comet TV
 https://fl3.moveonjoy.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-logo="", WWON TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcXs23v3/Wwon.png", WWON TV 
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz
