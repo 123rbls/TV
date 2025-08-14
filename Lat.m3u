@@ -1,4 +1,4 @@
-#EXTM3U 
+2#EXTM3U 
 
 ............................DOCUMENTALES...........................
 
@@ -230,7 +230,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNxKYMFx/CLife.png", CineLife
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5ZtVnLS/CineL.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Mystery TV 
