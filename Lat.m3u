@@ -269,6 +269,9 @@ https://tv2.fastcast4u.com:3943/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz
 https://fl3.moveonjoy.com/STARZ/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Starz Encore Classic
+https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cF7PkyY/FXM.png", FXM
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
