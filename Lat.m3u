@@ -287,6 +287,9 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4X0CxVy/sundance-tv-us.png", Sundance
 https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 
+#EXTINF:-1 tvg-logo="", MHZ Choice
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
