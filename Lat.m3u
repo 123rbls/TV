@@ -148,7 +148,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxvpkr0m/TVIficcao.png", TVI Ficcao 
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Filmelier Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZJCNyjy/filmelier.png", Filmelier Brasil
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k65850MH/Kuriakos.png",Kuriakos Cine
