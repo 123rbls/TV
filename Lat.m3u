@@ -239,7 +239,7 @@ https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX04tLNj/A-E.png", A&E
 https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 tvg-logo="", TBS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 http://143.244.60.30/TBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
@@ -258,7 +258,7 @@ https://fl3.moveonjoy.com/ME_TV/index.m3u8
 https://fl3.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spsDBkWW/bbcA.png", BBC America
-https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNrP3KQL/grit.png", Grit TV
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
