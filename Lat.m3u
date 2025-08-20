@@ -233,6 +233,9 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-logo="", FXX
+https://fl3.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC East
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
