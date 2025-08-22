@@ -11,6 +11,9 @@ https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
+https://jmp2.uk/stvp-US2600019IC
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
 
