@@ -210,8 +210,43 @@ https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",Cine Clásico
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", Peliculas del Oeste
 https://amogo-networx-grjngopelculasdeloeste-1-es.lg.wurl.tv/playlist.m3u8
+
+............................MUSICA.........................
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
+https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvh6RyxK/TRayo.png", Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's K-Pop 
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Easy Listening 
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
 .............................USA INGLES........................
 
@@ -316,36 +351,4 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JFt6Mzdq/Wild.png", National Geographic Wild 
 https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-............................MUSICA.........................
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
-https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvh6RyxK/TRayo.png", Telerayo
-https://s.emisoras.tv:8081/telerayo/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Latin Zone
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's K-Pop 
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Everything '80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Easy Listening 
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
