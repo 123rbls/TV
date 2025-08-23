@@ -224,9 +224,6 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvh6RyxK/TRayo.png", Telerayo
-https://s.emisoras.tv:8081/telerayo/index.m3u8
-
 #EXTINF:-1 tvg-logo="", Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
@@ -252,6 +249,9 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png",ABC NY 
+https://content-dtci.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=wabc_live&ad.vast3=1&ad.description_url=https://abcnews.go.com&ad.networkID=21783347309&ad.adUnit=/WABC/xumo/desktopweb/fast-channel&ad.ppid=e39b04d7-0988-75f8-4db1-608934b52962&ad.correlator=1702623543546&ad.scor=1702623543546&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=e39b04d7-0988-75f8-4db1-608934b52962&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=1YNN&ad.cust_params=vdm=live&chan=abc&plt=ctv&refDomain=https://abcnews.go.com&vps=640x480&ppid=e39b04d7-0988-75f8-4db1-608934b52962&beacTyp=ssai&sp=vdms&ait=ssai&var=16x9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
