@@ -204,6 +204,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 #EXTINF:-1 tvg-logo="", Canela TV Hollywood y Más 
 https://amg00658-amg00658c4-lg-us-3417.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Adrenalina Pura
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", Electric Now Español
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
 
