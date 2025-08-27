@@ -334,6 +334,12 @@ https://fl3.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="", Showtime 
 https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Showtime 2
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Showtime Next 
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
