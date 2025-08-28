@@ -74,9 +74,6 @@ https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4 SV
-http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgCNFvHr/Canal6.png", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
@@ -192,8 +189,11 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
   
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network MX
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network España 
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDJtSPDY/Lifetime.png", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
