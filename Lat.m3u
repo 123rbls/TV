@@ -355,7 +355,7 @@ https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="", Electric Now
 https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Discovery Film
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKJMJ0j3/DFilm.png", Discovery Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Great Movies 
