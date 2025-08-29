@@ -213,7 +213,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 #EXTINF:-1 tvg-logo="", Canela TV Hollywood y Más 
 https://amg00658-amg00658c4-lg-us-3417.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4jvTjw8/ENow.png", Electric Now Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now Español
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
@@ -355,7 +355,7 @@ https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="", MGM Maquee
 https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4jvTjw8/ENow.png", Electric Now
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now
 https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKJMJ0j3/DFilm.png", Discovery Film
