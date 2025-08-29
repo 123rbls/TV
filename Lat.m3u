@@ -66,9 +66,6 @@ https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/tsi.webp", TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPHTzrrC/HCH.png", HCH TV
-https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
-
 .............................EL SALVADOR..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2 SV
@@ -133,9 +130,6 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwNnQFHy/America.png", America  Televisión
-http://181.188.216.5:18000/play/a014/index.m3u8
 
 .............................BRASIL..........................
 
@@ -358,7 +352,7 @@ https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now
 https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKJMJ0j3/DFilm.png", Discovery Film
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKJMJ0j3/DFilm.png", Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Great Movies 
