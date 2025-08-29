@@ -91,7 +91,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="", Telemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJVpxRpx/Telemax.png", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 ...........................ESPAÑA............................
@@ -133,6 +133,9 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwNnQFHy/America.png", America  Televisión
+http://181.188.216.5:18000/play/a014/index.m3u8
 
 .............................BRASIL..........................
 
