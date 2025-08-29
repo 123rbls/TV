@@ -224,8 +224,29 @@ https://amogo-networx-grjngopelculasdeloeste-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO 
+https://jmp2.uk/stvp-USBB4400015F5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO 
+https://jmp2.uk/stvp-USBC3600015GF
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO
+https://jmp2.uk/stvp-USBD120002431
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO
+https://jmp2.uk/stvp-USBC3600008WY
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+
+#EXTINF:-1 tvg-logo="", Nuevo Latino
+https://jmp2.uk/stvp-USBD3300007PB
+
+#EXTINF:-1 tvg-logo="", Siempre Latino
+https://jmp2.uk/stvp-USBD3300007PB
+
+#EXTINF:-1 tvg-logo="", Hits
+https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:-1 tvg-logo="", Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
