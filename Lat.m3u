@@ -168,6 +168,9 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", Cine Canal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
@@ -318,6 +321,9 @@ https://tvpass.org/live/AEEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 http://143.244.60.30/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
+http://fl3.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
