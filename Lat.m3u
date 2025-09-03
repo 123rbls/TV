@@ -397,3 +397,6 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JFt6Mzdq/Wild.png", National Geographic Wild 
 https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Animal Planet 
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+
