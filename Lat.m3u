@@ -171,8 +171,8 @@ https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="", HBO ZONE
-http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="", HBO Family 
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", Cine Canal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
@@ -379,17 +379,14 @@ https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBPpS0LB/Syfy.png", SYFY USA
 https://fl3.moveonjoy.com/SYFY/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
-https://fl3.moveonjoy.com/EPIX/index.m3u8
-
 #EXTINF:-1 tvg-logo="", HBO
 http://fl3.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="", HBO 2
 http://fl3.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="", HBO Family 
-http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="", HBO ZONE
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Showtime 
 https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
@@ -402,6 +399,9 @@ https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
+https://fl3.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="", MGM Maquee
 https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
