@@ -325,11 +325,20 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 http://143.244.60.30/TBS/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
 http://fl3.moveonjoy.com/CINEMAX/index.m3u8
 
+#EXTINF:-1 tvg-logo="", TNT
+http://fl3.moveonjoy.com/TNT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Hallmark Channel
+http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hy4McYd/Cine.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
