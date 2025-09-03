@@ -275,6 +275,9 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 .............................USA INGLES........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
