@@ -91,9 +91,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJVpxRpx/Telemax.png", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 tvg-logo="",Teleformula 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-
 ...........................ESPAÑA............................
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
@@ -131,9 +128,6 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", America TV US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8
-
 .............................BRASIL..........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvYNFfJ6/Globo.png", Globo TV Bahia
