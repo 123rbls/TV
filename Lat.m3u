@@ -243,12 +243,6 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
-https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBx84Sq/CBS.png", CBS
-https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", Fox East
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
@@ -261,18 +255,6 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/mono.m3u8
-
-#EXTINF:-1 tvg-logo="", FXX
-https://fl3.moveonjoy.com/FXX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC
-https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC Stories
 https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -282,20 +264,8 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Cleo TV
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dw6vbnWW/Cinemax.png", Cinemax
-http://fl3.moveonjoy.com/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-logo="", TNT
-http://fl3.moveonjoy.com/TNT/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Hallmark Channel
-http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hy4McYd/Cine.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
@@ -303,65 +273,11 @@ https://magnolia-cinelife.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Mystery TV 
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBC4c12K/metv.png", Me TV
-https://fl3.moveonjoy.com/ME_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8k0SRXX/CMT.png", CMT East
-https://fl3.moveonjoy.com/CMT/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spsDBkWW/bbcA.png", BBC America
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spsDBkWW/bbcA.png", BBC America
-http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNrP3KQL/grit.png", Grit TV
-https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRtMyMGD/Comet.png", Comet TV
-https://fl3.moveonjoy.com/COMET/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcXs23v3/Wwon.png", WWON TV 
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz
-https://fl3.moveonjoy.com/STARZ/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Starz Encore Classic
-https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cF7PkyY/FXM.png", FXM
-https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBPpS0LB/Syfy.png", SYFY USA
-https://fl3.moveonjoy.com/SYFY/index.m3u8 
-
-#EXTINF:-1 tvg-logo="", HBO
-http://fl3.moveonjoy.com/HBO/index.m3u8
-
-#EXTINF:-1 tvg-logo="", HBO 2
-http://fl3.moveonjoy.com/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="", HBO ZONE
-http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Showtime 
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Showtime 2
-https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Showtime Next 
-https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Network
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPF6WddB/MGM.png", GMG+
-https://fl3.moveonjoy.com/EPIX/index.m3u8
-
-#EXTINF:-1 tvg-logo="", MGM Maquee
-https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now
 https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0020/playlist.m3u8
@@ -375,20 +291,11 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-logo="", Great Romance 
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4X0CxVy/sundance-tv-us.png", Sundance
-https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
-
 #EXTINF:-1 tvg-logo="", MHZ Choice
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JFt6Mzdq/Wild.png", National Geographic Wild 
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Animal Planet 
-http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 
 ............................MUSICA.........................
 
