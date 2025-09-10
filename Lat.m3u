@@ -226,10 +226,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1 tvg-logo="", Cine Real
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5g5C6bby/FTVDrama.png", FreeTV Drama
 https://amg01024-olympusat-amg01024c9-lg-cl-1670.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cineereal-lgcl/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1 tvg-logo="",Cine Clásico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m8JLxQW/FTVClasico.png",FreeTV Clásico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Peliculas del Oeste
