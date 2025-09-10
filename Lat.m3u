@@ -161,6 +161,9 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere 
+https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xkxp01sN/SonyOneE.png", Sony One Emoções 
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -175,8 +178,8 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", HBO Family 
-http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere
+https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dfn224ck/CineC.png", Cine Canal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
@@ -216,6 +219,9 @@ https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658
 
 #EXTINF:-1 tvg-logo="", Canela TV  Clasicos
 https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="", Butaca TV 
+https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now Español
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
