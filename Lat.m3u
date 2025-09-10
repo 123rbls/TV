@@ -258,17 +258,14 @@ https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff
 #EXTINF:-1 tvg-logo="", XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
 
-#EXTINF:-1 tvg-logo="", Siempre Latino
+#EXTINF:-1 tvg-logo="", XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
 
-#EXTINF:-1 tvg-logo="", Hits
+#EXTINF:-1 tvg-logo="", XITE Hits
 https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:-1 tvg-logo="", Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", PRIDEtv
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
@@ -314,11 +311,11 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hF7B3Z07/cw.png", CW
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", FXX
 https://fl3.moveonjoy.com/FXX/index.m3u8
