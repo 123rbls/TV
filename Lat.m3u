@@ -157,8 +157,17 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZJCNyjy/filmelier.png", Filmelier Brasil
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Filmelier TV Vida Real
+https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k65850MH/Kuriakos.png",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", MovieSphere 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Sony One Classic Brasil 
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 ...........................PELICULAS..........................
 
