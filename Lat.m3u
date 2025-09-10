@@ -270,7 +270,7 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hy4McYd/Cine.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Mystery TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B556sBzW/Mystery.png", Mystery TV 
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spsDBkWW/bbcA.png", BBC America
@@ -288,8 +288,8 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wKDJX5t/Great-M.png", Great Movies 
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Great Romance 
-https://amg01753-narrhttps://i.ibb.co/SX4Bb61J/Great-R.pngativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX4Bb61J/Great-R.png", Great Romance 
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQkvGMSN/MHz-Choice.png", MHZ Choice
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
