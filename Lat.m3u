@@ -17,10 +17,10 @@ https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
 https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="", Curiosity Animales
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hx7xzTtv/CAnimales.png", Curiosity Animales
 https://jmp2.uk/stvp-US2200001IY
 
-#EXTINF:-1 tvg-logo="", Curiosity Explora
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCJ3khW6/CExplora-removebg-preview.png", Curiosity Explora
 https://jmp2.uk/stvp-US22000020U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1G1hMR1J/Love-Planet.png", Love the Planet
@@ -241,7 +241,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60zHnz0N/FreeTVD.png", FreeTV Drama
 https://amg01024-olympusat-amg01024c9-lg-cl-1670.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cineereal-lgcl/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20w2krv9/FreeTVS.png", FreeTV Sureño
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnSwQQkP/FreeTVS.png", FreeTV Sureño
 https://tclAAAAAA-cinesureno-tcl-zegjq.amagi.tv/playlist/tclAAAAAA-cinesureno-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY8H4ZtY/FreeTVF.png", FreeTV Família
