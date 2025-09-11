@@ -6,7 +6,7 @@
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
 https://jmp2.uk/stvp-US2600019IC
@@ -30,7 +30,7 @@ https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.t
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fG4tS2yH/National-Geographic.png", National Geographic 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -365,4 +365,3 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Easy Listening 
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
- "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1---&coppa=0&c_lang=es&app_bundle=&app_name=FreeTV&app_store_url=&did=4db1206eb3b3001a3d52d7edc8749f2a&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2586&paln=APP_nonce&wta=API_wta
