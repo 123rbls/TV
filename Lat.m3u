@@ -188,7 +188,7 @@ https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjhRs66F/CineC.png", Cine Canal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
