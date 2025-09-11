@@ -199,7 +199,7 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-groups="Películas" tvg-logo="", Bigtjme 
+#EXTINF:-1 tvg-id="Películas" tvg-logo="https://i.ibb.co/YHCDkv9/Bigtime.png", Bigtime
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
