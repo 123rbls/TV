@@ -120,6 +120,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
+https://list.iptvcat.com/my_list/s/02b34e1e4600beef0cd4ab2d94cc4ea2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 
@@ -275,6 +278,12 @@ https://tvpass.org/live/AEEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 http://143.244.60.30/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA Network
+https://list.iptvcat.com/my_list/s/8eeddbbda45a9472a805e315c084cc02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz 
+https://tvpass.org/live/StarzEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
