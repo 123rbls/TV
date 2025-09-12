@@ -167,40 +167,49 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere 
 https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xkxp01sN/SonyOneE.png", Sony One Emoções 
-https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKjbSmWT/One-Classic.png", Sony One Classic Brasil 
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwqLLVcT/Cindie.png", Cindie Lite Portuguese
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xkxp01sN/SonyOneE.png", Sony One Emoções 
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXyCL9jx/SonyOC.png", Sony One Classic Brasil 
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
 ...........................PELICULAS..........................
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere
-https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjhRs66F/CineC.png", Cine Canal
 https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Dr6dVV/Studiouniversal.png", Studio Universal Latin America 
+https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere
+https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Películas" tvg-logo="https://i.ibb.co/YHCDkv9/Bigtime.png", Bigtime
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrzJ7yvY/Canela-Hollywood.png", Canela TV Hollywood y Más 
+https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="", Canela TV  Clasicos
+https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsSMZTR9/Butaca.png", Butaca TV 
+https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png", AMC en Español
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
@@ -211,17 +220,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDJtSPDY/Lifetime.png", Lifetime 
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Dr6dVV/Studiouniversal.png", Studio Universal Latin America 
-https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XrzJ7yvY/Canela-Hollywood.png", Canela TV Hollywood y Más 
-https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="", Canela TV  Clasicos
-https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsSMZTR9/Butaca.png", Butaca TV 
-https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now Español
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
