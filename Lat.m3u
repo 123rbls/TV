@@ -118,7 +118,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -197,10 +197,10 @@ https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrzJ7yvY/Canela-Hollywood.png", Canela TV Hollywood y Más 
-https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Canela TV  Clasicos
-https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsSMZTR9/Butaca.png", Butaca TV 
 https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
@@ -224,10 +224,10 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mnQ29sP/CineE.png", Cine En Español 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ae943f32-83c6-11f0-9959-6417ed50cc5a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1ea717f-f7c5-4d0e-b875-ba2418d8ac19&userId=&serverSideAds=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
-https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDyYVP78/FreeTVA.png", FreeTV Acción
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/playlist.m3u8
@@ -313,16 +313,16 @@ https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKVm6R8J/FreeMN.png", Free Movie Network
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzM5NDUyNDc3MH0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Acción 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzYxMDMwNjY3Mn0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Free Comedy Network 
-https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU1MjI5OTIwMn0
+https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH0KZv4H/MovieS.png", Movie Sphere by LionsGate
-https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDA5MDYwMDQwMn0
+https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
 
 ............................MUSICA.........................
 
