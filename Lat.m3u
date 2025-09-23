@@ -230,16 +230,19 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDyYVP78/FreeTVA.png", FreeTV Acción
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1---&coppa=0&c_lang=es&app_bundle=&app_name=FreeTV&app_store_url=&did=4db1206eb3b3001a3d52d7edc8749f2a&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2586&paln=APP_nonce&wta=API_wta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccK96W8M/estelar.png", FreeTV Estelar
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineusfreetv-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60zHnz0N/FreeTVD.png", FreeTV Drama
-https://amg01024-olympusat-amg01024c9-lg-cl-1670.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cineereal-lgcl/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+https://amg01024-olympusat-amg01024c9-lg-cl-1670.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cineereal-lgcl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnSwQQkP/FreeTVS.png", FreeTV Sureño
 https://tclAAAAAA-cinesureno-tcl-zegjq.amagi.tv/playlist/tclAAAAAA-cinesureno-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY8H4ZtY/FreeTVF.png", FreeTV Família
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?&url=freetv.com&genre=Entretenimiento&us_privacy=1---&coppa=0&c_lang=es&app_bundle=&app_name=FreeTV&app_store_url=&did=4db1206eb3b3001a3d52d7edc8749f2a&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2616&paln=APP_nonce&wta=API_wta
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m8JLxQW/FTVClasico.png",FreeTV Clásico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
