@@ -235,14 +235,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccK96W8M/estelar.png", FreeTV Estelar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineusfreetv-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60zHnz0N/FreeTVD.png", FreeTV Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zh9xjkcS/drama.png", FreeTV Drama
 https://amg01024-olympusat-amg01024c9-lg-cl-1670.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cineereal-lgcl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnSwQQkP/FreeTVS.png", FreeTV Sureño
 https://tclAAAAAA-cinesureno-tcl-zegjq.amagi.tv/playlist/tclAAAAAA-cinesureno-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY8H4ZtY/FreeTVF.png", FreeTV Família
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hpbw7bj/Live.png", FreeTV Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m8JLxQW/FTVClasico.png",FreeTV Clásico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
