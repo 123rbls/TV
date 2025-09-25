@@ -123,7 +123,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV Pasion Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatvrewardedtv-rewardedtv/playlist.m3u8
 
 .............................BRASIL..........................
