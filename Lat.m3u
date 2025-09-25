@@ -220,6 +220,9 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="", VIX Cine Club
 https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMqprx1F/CineR.png", Cine Romántico
+https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdPfGcpX/BBCDRAMA.png", BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
