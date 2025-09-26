@@ -115,7 +115,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 .............................USA ESPAÑOL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+https://v4.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=2uKFOlJMY1DsIrFE8f4CKw&expires=1758879880&user_id=SlVkbmF4T2hPVDh4eU1hdEd2N1VEM1h3VG14anhkZXppd1pWakhsMA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision Pacífico
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
