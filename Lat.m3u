@@ -100,14 +100,13 @@ https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 
 ...........................ESPAÑA............................
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://hls.webredirect.org/93f8h/mp_9414.php/https://atres-live.atresmedia.com/027037b42901755d6036a56135faf3d2decbef95_ES_1758844747_1758873487/hlslegacy/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycHXNQhn/A3S.png", A3 Series
 http://hls.webredirect.org/93f8h/mp_9414.php/https://atres-live.atresmedia.com/5b447fcde883b4ec24da2f58a35742316e7bf45a_ES_1758858811_1758887551/hlslegacy/live/a3series_usp/a3series_usp.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRRd2VX0/A3Player.png", Atres Player Cine/Series
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kV0BfMF/CYS.png", Cine y Series
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
