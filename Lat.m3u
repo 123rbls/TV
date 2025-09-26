@@ -81,8 +81,8 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6kQQx7t/Canal12.png", Canal 12 SV
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
@@ -162,7 +162,7 @@ https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4GVqtx4/sbt.png", SBT
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksdPs9JN/TVBrasil.png", TV Brasil 
 https://tvbrasil-stream.ebc.com.br/index.m3u8
