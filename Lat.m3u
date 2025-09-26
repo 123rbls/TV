@@ -126,6 +126,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MjkJHPZ/Galavision.png", Galavision Español
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
+https://v8.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=Rlo8i7l_C_d8XHv2DAIUUg&expires=1758880363&user_id=SlVkbmF4T2hPVDh4eU1hdEd2N1VEM1h3VG14anhkZXppd1pWakhsMA==
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8
 
