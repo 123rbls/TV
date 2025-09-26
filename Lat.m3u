@@ -78,6 +78,9 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kQQx7t/Canal12.png", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
 ...............................MEXICO.........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNvWWvKX/Televisa.png", Televisa Novelas
