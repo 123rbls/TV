@@ -110,7 +110,7 @@ https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 ...........................ESPAÑA............................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
-http://hls.webredirect.org/93f8h/mp_9414.php/https:/atres-live.atresmedia.com/9cd0e3d0e0c09ae04a30c2cd27fdbd43c3c9d3ad_ES_1758873575_1758902315/hlslegacy/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8?hls_minimum_fragment_length=100/25&hls_client_manifest_version=3
+http://hls.webredirect.org/93f8h/mp_9414.php/https:/atres-live.atresmedia.com/0_ES_1758902400_1758931140/hlslegacy/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8?hls_minimum_fragment_length=100/25&hls_client_manifest_version=3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycHXNQhn/A3S.png", A3S/
 http://hls.webredirect.org/93f8h/mp_9414.php/https:/atres-live.atresmedia.com/aacac8323943942f84aba09eea72c6c40b1731b0_ES_1758887640_1758916380/hlslegacy/live/a3series_usp/a3series_usp.isml/a3series_usp-audio_spa=128000-video=2700000.m3u8?hls_minimum_fragment_length=100/25&hls_client_manifest_version=3
