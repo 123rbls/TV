@@ -109,6 +109,18 @@ https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 
 ...........................ESPAÑA............................
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRK6S5xG/La1.png", La 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nLGgLz3/startve.png", Star Tve 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
 http://hls.webredirect.org/93f8h/mp_9414.php/https:/atres-live.atresmedia.com/0_ES_1758902400_1758931140/hlslegacy/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8?hls_minimum_fragment_length=100/25&hls_client_manifest_version=3
 
@@ -117,15 +129,6 @@ http://hls.webredirect.org/93f8h/mp_9414.php/https:/atres-live.atresmedia.com/aa
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kV0BfMF/CYS.png", Cine Y Series TV
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nLGgLz3/startve.png", Star Tve 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
