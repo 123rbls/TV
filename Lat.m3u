@@ -107,6 +107,9 @@ http://hls.webredirect.org/93f8h/mp_9414.php/https://atres-live.atresmedia.com/0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycHXNQhn/A3S.png", A3 Series
 http://hls.webredirect.org/93f8h/mp_9414.php/https://atres-live.atresmedia.com/5b447fcde883b4ec24da2f58a35742316e7bf45a_ES_1758858811_1758887551/hlslegacy/live/a3series_usp/a3series_usp.isml/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRRd2VX0/A3Player.png", Atres Player Cine/Series
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMW36ZRB/tve.png", Tve
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
  
