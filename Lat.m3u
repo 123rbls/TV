@@ -289,6 +289,8 @@ https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3HXZbn/Cinepolis.png", Cinépolis Channel
 https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsRFXYgH/Cinerama.png", Cinerama
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLgqtjzX/Spark.png", SparkTV Luz Y Amor
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60/variant.m3u8?x-plex-token=EyMjXLx9KiL9DHhAVdnS&x-plex-advertising-identifier=&x-plex-client-identifier=eb323124-4544-482e-824c-38cec10830ad&x-plex-playback-id=p_56448064-6c94-4cbe-8a45-7550bf57e315&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome+WebView&x-plex-platform-version=140.0.7339.155&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1758855450&url=8884a80ddf59f2a44b3d8dce1323ce2a-705464443aa91a2c8596d6f9bbe627fb6eeb788fec670b493a3d66479bd7d6ad45263edac877790bb3d506127ecefbfbbe6f230ce616fa3839a4e0f2713089ff623dfe6ba76344369f4d98605c52d714ff024ba27324564ef8b706578a41751ccea838a2d12a5aa208be49b2b32edf99e58b270d436f76b5f103d00a5b05c42980d4adde680c50533ea72dd86fe2959cd7e08df0347a07033bac7e0ceac9c335fb6266d4d47e23111b0d7848cd610275d616889823fa06c4902120f880fff8a6c8618dfbc6ba463c8e0a608ea5ea6d51
