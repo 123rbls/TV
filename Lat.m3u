@@ -428,8 +428,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nfwwfJ1/Trace.png", Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qF3VJD4s/Tropical.png", 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF3VJD4s/Tropical.png", Tropical Moon TV
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqj26Ysb/Hits.png", Hits Mexicanos
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVnhB0Pn/RetroP.png", RetroTV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
