@@ -124,7 +124,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 .............................USA ESPAÑOL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
-https://tvpass.org/live/univisionEast/hd
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision Pacífico
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
