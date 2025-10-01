@@ -256,7 +256,10 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="", VIX Cine Club
 https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVxsn2D/Sci-Fi.png", Rakuten TV Sci-Fi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5pRrHp0/Romance.png", Rakuten TV 
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVxsn2D/Sci-Fi.png", Rakuten TV Sci•Fi
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/0f079e72-d248-49ac-96be-17e68518aa0b/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMqprx1F/CineR.png", Cine Romántico
