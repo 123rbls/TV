@@ -92,12 +92,6 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 ...............................MEXICO.........................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tTDn10mD/C5.png", Canal 5
-https://live.saohgdasregions.fun:9092/NjguMTk2LjcuMjM=/2_.m3u8?token=ZfR5HIlFrw4fnMzymLvuGA&expires=1759554934
-
-#EXTINF:-1 tvg-logo="", Azteca 7
-https://live.saohgdasregions.fun:9092/NjguMTk2LjcuMjM=/1_.m3u8?token=DwlNCQA-4hyvOdSxppwC0w&expires=1759555683
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
@@ -412,6 +406,9 @@ https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 ............................MUSICA.........................
+
+#EXTINF:-1 tvg-logo="", Bandamax
+https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 1
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
