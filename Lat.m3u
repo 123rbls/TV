@@ -407,9 +407,6 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 ............................MUSICA.........................
 
-#EXTINF:-1 tvg-logo="", Bandamax
-https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 1
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
