@@ -32,8 +32,8 @@ https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fG4tS2yH/National-Geographic.png", National Geographic 
-https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/c2f92dfb-f131-4167-b101-8627ece7d70f.png?bf=0&f=png&p=true&q=85&w=700", Animal Planet
+https://live.saohgdasregions.fun:9092/NjguMTk2LjcuMjM=/94_.m3u8?token=LkWF2rTga54nnXrVS7eWSg&expires=1759642234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -407,6 +407,9 @@ https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH0KZv4H/MovieS.png", Movie Sphere by LionsGate
 https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 ............................MUSICA.........................
 
