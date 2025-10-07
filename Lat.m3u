@@ -333,20 +333,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaom
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
-https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", Fox East
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtNXp4Zs/ion.png", ion Television
-https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
+https://jmp2.uk/stvp-USBD300002TU
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymHqmjRg/IonPlus.png", ion Plus
-https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+https://jmp2.uk/stvp-USBD300003LK
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+https://jmp2.uk/stvp-USBC24000223S
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC Stories
 https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
