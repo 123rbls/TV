@@ -112,6 +112,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
+#EXTINF:-1 tvg-logo="", Galavision
+http://xxip25.top:8080/m1pA6E/285356/58770
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
