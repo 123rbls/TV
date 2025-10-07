@@ -296,7 +296,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vGLn4c/FilmR.png", FilmRise Peliculas Gratis
-https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qHtfwdZBtE1qhjqzzA6h
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F40240240-2170-4172-9de3-df0ba417602c%2FPlex_FilmRise_SeriesGratis_Color_Logo.png", FilmRise Series Gratis
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5803.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qHtfwdZBtE1qhjqzzA6h
