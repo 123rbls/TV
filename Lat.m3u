@@ -116,7 +116,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac5e203-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cf7016f-7b37-42cd-b940-a0a83cf5d4f7&userId=&serverSideAds=true
