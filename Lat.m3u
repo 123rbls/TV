@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WkC0tch/Hnd.png", HONDURAS
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", HONDURAS Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
@@ -23,19 +26,22 @@ https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
 ..................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", EL SALVADOR Canal 2 SV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFm5xKp9/ES.png", EL SALVADOR
+https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", EL SALVADOR Canal 2
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4
 https://telecorporacion.cdn.vustreams.com/live/ed89f096-00b1-4d6e-806a-ad9064a603e3/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6 SV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+ SV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12 SV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
@@ -43,43 +49,36 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 ...............................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", DOCUMENTALES History en Español
-https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
-https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision Pacífico
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
-https://jmp2.uk/stvp-US2600019IC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
-https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Galavision
+http://xxip25.top:8080/m1pA6E/285356/58770
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HTzZPY3C/BBCEarth.png", BBC Earth
-https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
-https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac5e203-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cf7016f-7b37-42cd-b940-a0a83cf5d4f7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hx7xzTtv/CAnimales.png", Curiosity Animales
-https://jmp2.uk/stvp-US2200001IY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCJ3khW6/CExplora-removebg-preview.png", Curiosity Explora
-https://jmp2.uk/stvp-US22000020U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", AméricaTV 
+https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1G1hMR1J/Love-Planet.png", Love the Planet
-https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV 
+https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/cb513a1665736c8884cd2164d3d3e991a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600966413e1ad67dd67b01d7ac3ff10d606373149be9ac79db99140bb6c60f2b2eb86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e41e79c42d7d31fb889ca5a9b469615a042ccd0a994d61385989265bb43e36d515a732ccad234cac80ab597cb383fcc3c29174607abf7c1ac1c3dd7461305fcae9be50b9571c78a57e90a519221ba1ec967d026c06aa3e84ad2ebd19b41423da5c50f3423edb1a38ea37867ec37fdefb0dc2025d4a7452f16ca3bdd73283995ab916deea91486a61c87a1671934c5e32ef1f4b182e1b5814bd231dc9d9ff25e4e43777666ec3f8cbb37ac43b27cadd81a22597248ac9452d187de5b420625e4854d8e6c71d3ce98bccf1c32dc6118439a11b3340b79c0385369f612e988357a882513df4557935133817de8a13cf0d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a840c6e3477d73787b9abb12d656a89f4c2eed0524a645376023e79838d08f30f6bb47f6ca36615221925199f10d36d9f335d013acc0da1d46316ab2751e0623a5d27374299daa589c7f7c741a776d0ce874a47b9a4badf41691661c1a2cd7af53d586a7f4fc27c0c9d5ede383088bbf09ff1ae6bd9dc5da52a695e04af9546115c05203143f3fa19678ddb06c45bbfea251655678f408e0e034185fd9aac4df5e893ce4c0edf84520e58aedc35ce49fba67d2d4aa5dd6ad1bc590753690e1882c678f651acc7c1870a9428bf400a7aaa29e8c7a380fb2b62bfc61a73111c5c1b7b1d421c5d99948736502dbee869b60cb2b015be541d731e57ce8e056983ea5c15887a2b33f2ee98dded822838fe43d839896c0aad524d09e4cf33e5caf2c5ff957c5d0fd7f9ff02ebe1ab89ded9c723315a3860d5911102248b7fbedd52b4ed2e7de98899ec953bc422ac66edf6db44831daecfae01a794ef9caa246d372830cfc0fae901d5bb0027ee2a3b2cac9f2b2c82df3df7cd7e6eceacf941e0592a41f043/51/1920x1080_6709560/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
-https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", Nat Geo
-https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-.........................................ÑÑÑÑÑÑ...............................
+............................................................................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
@@ -110,32 +109,6 @@ https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/p
 
 ...........................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision Pacífico
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-
-#EXTINF:-1 tvg-logo="", Galavision
-http://xxip25.top:8080/m1pA6E/285356/58770
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac5e203-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cf7016f-7b37-42cd-b940-a0a83cf5d4f7&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4CY1k24/Am-rica-Tev.png", AméricaTV 
-https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV 
-https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/cb513a1665736c8884cd2164d3d3e991a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600966413e1ad67dd67b01d7ac3ff10d606373149be9ac79db99140bb6c60f2b2eb86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e41e79c42d7d31fb889ca5a9b469615a042ccd0a994d61385989265bb43e36d515a732ccad234cac80ab597cb383fcc3c29174607abf7c1ac1c3dd7461305fcae9be50b9571c78a57e90a519221ba1ec967d026c06aa3e84ad2ebd19b41423da5c50f3423edb1a38ea37867ec37fdefb0dc2025d4a7452f16ca3bdd73283995ab916deea91486a61c87a1671934c5e32ef1f4b182e1b5814bd231dc9d9ff25e4e43777666ec3f8cbb37ac43b27cadd81a22597248ac9452d187de5b420625e4854d8e6c71d3ce98bccf1c32dc6118439a11b3340b79c0385369f612e988357a882513df4557935133817de8a13cf0d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a840c6e3477d73787b9abb12d656a89f4c2eed0524a645376023e79838d08f30f6bb47f6ca36615221925199f10d36d9f335d013acc0da1d46316ab2751e0623a5d27374299daa589c7f7c741a776d0ce874a47b9a4badf41691661c1a2cd7af53d586a7f4fc27c0c9d5ede383088bbf09ff1ae6bd9dc5da52a695e04af9546115c05203143f3fa19678ddb06c45bbfea251655678f408e0e034185fd9aac4df5e893ce4c0edf84520e58aedc35ce49fba67d2d4aa5dd6ad1bc590753690e1882c678f651acc7c1870a9428bf400a7aaa29e8c7a380fb2b62bfc61a73111c5c1b7b1d421c5d99948736502dbee869b60cb2b015be541d731e57ce8e056983ea5c15887a2b33f2ee98dded822838fe43d839896c0aad524d09e4cf33e5caf2c5ff957c5d0fd7f9ff02ebe1ab89ded9c723315a3860d5911102248b7fbedd52b4ed2e7de98899ec953bc422ac66edf6db44831daecfae01a794ef9caa246d372830cfc0fae901d5bb0027ee2a3b2cac9f2b2c82df3df7cd7e6eceacf941e0592a41f043/51/1920x1080_6709560/index.m3u8
 
 .......................................................................
 
@@ -333,6 +306,44 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
 
 .............................................................
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", DOCUMENTALES History en Español
+https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
+https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
+https://jmp2.uk/stvp-US2600019IC
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
+https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTzZPY3C/BBCEarth.png", BBC Earth
+https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
+https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hx7xzTtv/CAnimales.png", Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCJ3khW6/CExplora-removebg-preview.png", Curiosity Explora
+https://jmp2.uk/stvp-US22000020U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1G1hMR1J/Love-Planet.png", Love the Planet
+https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", Nat Geo
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+.........................................................................................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", USA INGLES ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
