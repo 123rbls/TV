@@ -104,6 +104,9 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kTsRyw/TN.png", Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8?rights_holder_id=todo-novelas-mas-pasiones&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=ccdaa45d-4cd8-411f-9a39-1171c6e1cae6&url=https://www.canela.tv/player/channel/todo-novelas-mas-pasiones&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLyJFBMY/Clasica.png", Tele Clásica
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+
 .............................USA ESPAÑOL........................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", Univision
