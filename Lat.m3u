@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKch2BFk/Hnd.png", HONDURAS
+#EXTINF:-1 tvg-logo="", HONDURAS
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", Canal 5 El Líder
@@ -24,9 +24,9 @@ https://d3q93l5bumjyoq.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrkVLq7s/Suyapa.png", Suyapa TV
 https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
-..................................................................................
+.........................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnYWkVs8/Slv.png", EL SALVADOR
+#EXTINF:-1 tvg-logo="", EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2
@@ -47,7 +47,10 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
-...............................................................................
+.........................................................................................
+
+#EXTINF:-1 tvg-logo="", ESTADOS UNIDOS
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
@@ -76,9 +79,7 @@ https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV 
 https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/cb513a1665736c8884cd2164d3d3e991a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600966413e1ad67dd67b01d7ac3ff10d606373149be9ac79db99140bb6c60f2b2eb86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e41e79c42d7d31fb889ca5a9b469615a042ccd0a994d61385989265bb43e36d515a732ccad234cac80ab597cb383fcc3c29174607abf7c1ac1c3dd7461305fcae9be50b9571c78a57e90a519221ba1ec967d026c06aa3e84ad2ebd19b41423da5c50f3423edb1a38ea37867ec37fdefb0dc2025d4a7452f16ca3bdd73283995ab916deea91486a61c87a1671934c5e32ef1f4b182e1b5814bd231dc9d9ff25e4e43777666ec3f8cbb37ac43b27cadd81a22597248ac9452d187de5b420625e4854d8e6c71d3ce98bccf1c32dc6118439a11b3340b79c0385369f612e988357a882513df4557935133817de8a13cf0d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a840c6e3477d73787b9abb12d656a89f4c2eed0524a645376023e79838d08f30f6bb47f6ca36615221925199f10d36d9f335d013acc0da1d46316ab2751e0623a5d27374299daa589c7f7c741a776d0ce874a47b9a4badf41691661c1a2cd7af53d586a7f4fc27c0c9d5ede383088bbf09ff1ae6bd9dc5da52a695e04af9546115c05203143f3fa19678ddb06c45bbfea251655678f408e0e034185fd9aac4df5e893ce4c0edf84520e58aedc35ce49fba67d2d4aa5dd6ad1bc590753690e1882c678f651acc7c1870a9428bf400a7aaa29e8c7a380fb2b62bfc61a73111c5c1b7b1d421c5d99948736502dbee869b60cb2b015be541d731e57ce8e056983ea5c15887a2b33f2ee98dded822838fe43d839896c0aad524d09e4cf33e5caf2c5ff957c5d0fd7f9ff02ebe1ab89ded9c723315a3860d5911102248b7fbedd52b4ed2e7de98899ec953bc422ac66edf6db44831daecfae01a794ef9caa246d372830cfc0fae901d5bb0027ee2a3b2cac9f2b2c82df3df7cd7e6eceacf941e0592a41f043/51/1920x1080_6709560/index.m3u8
 
-
-
-............................................................................
+.........................................................................................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
@@ -90,7 +91,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 
-..............................................................................
+.........................................................................................
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", MEXICO Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -107,12 +108,12 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kTsRyw/TN.png", Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8?rights_holder_id=todo-novelas-mas-pasiones&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=ccdaa45d-4cd8-411f-9a39-1171c6e1cae6&url=https://www.canela.tv/player/channel/todo-novelas-mas-pasiones&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-...........................................................................
+..........................................................................................
 
+#EXTINF:-1 tvg-logo="", ESPAÑA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
 
-.......................................................................
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRK6S5xG/La1.png", ESPAÑA La 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRK6S5xG/La1.png", La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png", La 2
@@ -131,6 +132,9 @@ https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
  
 .....................................................................
+
+#EXTINF:-1 tvg-logo="", SUR AMERICA
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjQMMxw3/Vene.png", SUR AMERICA Venevisión
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
