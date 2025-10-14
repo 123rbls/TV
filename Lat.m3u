@@ -49,7 +49,7 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 .........................................................................................
 
-#EXTINF:-1 tvg-logo="", ESTADOS UNIDOS
+#EXTINF:-1 tvg-logo="", ESTADOS UNIDOS ESPAÑOL
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
@@ -90,7 +90,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="", MEXICO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", MEXICO Azteca Internacional
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJVpxRpx/Telemax.png", Telemax
@@ -136,7 +136,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="", SUR AMERICA
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjQMMxw3/Vene.png", SUR AMERICA Venevisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjQMMxw3/Vene.png", Venevisión
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFpNCKyp/latina.png", Latina TV 
@@ -357,7 +357,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 .........................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ESTADOS UNIDOS INGLES 
+#EXTINF:-1 tvg-logo="", ESTADOS UNIDOS INGLES 
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
