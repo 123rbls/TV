@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5WkC0tch/Hnd.png", HONDURAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKch2BFk/Hnd.png", HONDURAS
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", HONDURAS Canal 5 El Líder
+#EXTINF:-1 tvg-logo="https://www.televicentro.com/images/guide-programming/canal5.webp", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fz46bVKf/Telecadena7y4.png", Telecadena 7/4
@@ -26,10 +26,10 @@ https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
 ..................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFm5xKp9/ES.png", EL SALVADOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnYWkVs8/Slv.png", EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", EL SALVADOR Canal 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwLXDVnz/Canal2.png", Canal 2
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4
