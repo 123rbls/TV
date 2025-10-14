@@ -79,19 +79,16 @@ https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J1PrHK1/CanelaTV.png", Canela TV 
 https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/cb513a1665736c8884cd2164d3d3e991a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600966413e1ad67dd67b01d7ac3ff10d606373149be9ac79db99140bb6c60f2b2eb86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e41e79c42d7d31fb889ca5a9b469615a042ccd0a994d61385989265bb43e36d515a732ccad234cac80ab597cb383fcc3c29174607abf7c1ac1c3dd7461305fcae9be50b9571c78a57e90a519221ba1ec967d026c06aa3e84ad2ebd19b41423da5c50f3423edb1a38ea37867ec37fdefb0dc2025d4a7452f16ca3bdd73283995ab916deea91486a61c87a1671934c5e32ef1f4b182e1b5814bd231dc9d9ff25e4e43777666ec3f8cbb37ac43b27cadd81a22597248ac9452d187de5b420625e4854d8e6c71d3ce98bccf1c32dc6118439a11b3340b79c0385369f612e988357a882513df4557935133817de8a13cf0d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a840c6e3477d73787b9abb12d656a89f4c2eed0524a645376023e79838d08f30f6bb47f6ca36615221925199f10d36d9f335d013acc0da1d46316ab2751e0623a5d27374299daa589c7f7c741a776d0ce874a47b9a4badf41691661c1a2cd7af53d586a7f4fc27c0c9d5ede383088bbf09ff1ae6bd9dc5da52a695e04af9546115c05203143f3fa19678ddb06c45bbfea251655678f408e0e034185fd9aac4df5e893ce4c0edf84520e58aedc35ce49fba67d2d4aa5dd6ad1bc590753690e1882c678f651acc7c1870a9428bf400a7aaa29e8c7a380fb2b62bfc61a73111c5c1b7b1d421c5d99948736502dbee869b60cb2b015be541d731e57ce8e056983ea5c15887a2b33f2ee98dded822838fe43d839896c0aad524d09e4cf33e5caf2c5ff957c5d0fd7f9ff02ebe1ab89ded9c723315a3860d5911102248b7fbedd52b4ed2e7de98899ec953bc422ac66edf6db44831daecfae01a794ef9caa246d372830cfc0fae901d5bb0027ee2a3b2cac9f2b2c82df3df7cd7e6eceacf941e0592a41f043/51/1920x1080_6709560/index.m3u8
 
-.........................................................................................
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-
-
 .........................................................................................
+
+#EXTINF:-1 tvg-logo="", MEXICO
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", MEXICO Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -130,8 +127,11 @@ https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
  
-.....................................................................
+..........................................................................................
 
 #EXTINF:-1 tvg-logo="", SUR AMERICA
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
@@ -141,6 +141,11 @@ https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFpNCKyp/latina.png", Latina TV 
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2170145428368e0636a472d5
+
+.........................................................................................
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvYNFfJ6/Globo.png", CANALES EN PORTUGUÉS
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvYNFfJ6/Globo.png", Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -192,7 +197,10 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 ...........................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png",PELICULAS Sony Channel
+#EXTINF:-1 tvg-logo="", PELICULAS
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
@@ -309,16 +317,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LNW0JNR/Clasico.png",FreeTV Clásico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
 
-.............................................................
+..........................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", DOCUMENTALES History en Español
+#EXTINF:-1 tvg-logo="", DOCUMENTALES
+https://jmp2.uk/stvp-US2600019IC
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
 https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
-https://jmp2.uk/stvp-US2600019IC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
@@ -349,7 +357,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 .........................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", USA INGLES ABC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ESTADOS UNIDOS INGLES 
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", Fox East
@@ -424,16 +435,16 @@ https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
-..........................................................................
+.........................................................................................
+
+#EXTINF:-1 tvg-logo="", MUSICA 
+https://jmp2.uk/stvp-USBB4400015F5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 1
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 2
 https://jmp2.uk/stvp-USBC3600015GF
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO 2K
-https://jmp2.uk/stvp-USBB4400015F5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Pop
 https://jmp2.uk/stvp-USBC3600008WY
