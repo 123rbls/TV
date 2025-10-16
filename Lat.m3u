@@ -33,7 +33,7 @@ https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946a
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4
-https://tmp-sv8.teleon.live/play/a00i/68290009.m3u8
+https://teleon.tv/stream/cG5wODQ2NjAxN3BucDg0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
@@ -44,7 +44,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 21
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DxvMbQg/C21.png", Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
