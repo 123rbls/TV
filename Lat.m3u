@@ -18,8 +18,11 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RfG0wNw/Lenca.png", Lenca TV 
 https://lencatelevision.com/hls/stream.m3u8?cachebust=68fec1ca
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwNQRgkL/VTV.png", VTV
-https://d3q93l5bumjyoq.cloudfront.net/original.m3u8
+#EXTINF:-1 tvg-logo="https://canal6hn.com/wp-content/uploads/2025/03/1000x1000.png", Canal 6
+https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VprX3s0P/Centro.png", TV Centro
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrkVLq7s/Suyapa.png", Suyapa TV
 https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
