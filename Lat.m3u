@@ -44,6 +44,9 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
+#EXTINF:-1 tvg-logo="", Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
