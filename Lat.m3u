@@ -181,6 +181,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxvpkr0m/TVIficcao.png", TVI Ficcao 
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLkWZdB/rtp.png", RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?tk=1760756400_e29f0c985b62dc3633ef93ab84640237d20efe6b
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S74wzd7Y/Adrenalina.png", Adrenalina Pura
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 
@@ -269,9 +272,6 @@ https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9vghbpF/Family.png", Rakuten TV Family 
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVxsn2D/Sci-Fi.png", Rakuten TV Sci•Fi
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/0f079e72-d248-49ac-96be-17e68518aa0b/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMqprx1F/CineR.png", Cine Romántico
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991142
