@@ -58,6 +58,10 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 .........................................................................................
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRTLFF7S/Vision.png", VisionTV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 #EXTINF:-1 tvg-logo="", ESTADOS UNIDOS ESPAÑOL
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
