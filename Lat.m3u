@@ -50,9 +50,6 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxvMbQg/C21.png", Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHPcbNSS/TVO.png", TVO
-https://5fc584f3f19c9.streamlock.net:443/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSAxOjU2OjQ5IFBNJmhhc2hfdmFsdWU9bDA4dHQrMDFhanRyUEdaUFJKSXpmZz09JnZhbGlkbWludXRlcz0xMCZpZD0=&DVR
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
@@ -216,7 +213,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", PELICULAS
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Sony Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
@@ -237,7 +234,7 @@ https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere
 https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Películas" tvg-logo="https://i.ibb.co/YHCDkv9/Bigtime.png", Bigtime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YHCDkv9/Bigtime.png", Bigtime
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrzJ7yvY/Canela-Hollywood.png", Canela TV Hollywood y Más 
