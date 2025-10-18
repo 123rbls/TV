@@ -138,6 +138,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kV0BfMF/CYS.png", Cine Y Series TV
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", TV Canaria
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760828672/ei/oMjzaPO8NNeJkucP-6bbgAY/ip/68.196.7.23/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSUY-G63TPmBnojpvzZSnUPz7kCfiyiqMuRcFfYvaOI109RN8VPyeLgHbDFPiINZ3WCUn8Z6BjYu/spc/hcYD5Q7jUopBiNKkxgvEzorWltmTBJhv44d77x-7-54axXfyXHpU2GmggwInrlU2OLc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI9HsRUNoobWpN3ZOMdTEBDncDu35bXftnH554eFjc0LAiEA4dfLgySzpVJDKDEC3Mw99T8SEQ-cE7lI4AaUzUCnQpA%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
