@@ -42,7 +42,7 @@ https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946a
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4
-http://45.5.116.178:8000/play/a00g/index.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
@@ -65,13 +65,10 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", GUATEMALA
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH4tfwbC/Nim.png", NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRqdb536/Sol.png", Sol TV 
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 .........................................................................................
 
@@ -160,9 +157,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kV0BfMF/CYS.png", Cine Y Series TV
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", TV Canaria
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760828672/ei/oMjzaPO8NNeJkucP-6bbgAY/ip/68.196.7.23/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSUY-G63TPmBnojpvzZSnUPz7kCfiyiqMuRcFfYvaOI109RN8VPyeLgHbDFPiINZ3WCUn8Z6BjYu/spc/hcYD5Q7jUopBiNKkxgvEzorWltmTBJhv44d77x-7-54axXfyXHpU2GmggwInrlU2OLc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI9HsRUNoobWpN3ZOMdTEBDncDu35bXftnH554eFjc0LAiEA4dfLgySzpVJDKDEC3Mw99T8SEQ-cE7lI4AaUzUCnQpA%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp9cB0qP/POP.png", Pop Wold
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
@@ -184,7 +178,7 @@ https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9vghbpF/Family.png", Rakuten TV Family 
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 
-#EXTINF:-1 tvg-logo="", Rakuten TV Cine Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdcXtWF7/CineES.png", Rakuten TV Cine Español
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
 #EXTINF:-1 tvg-logo="", Rakuten TV Comedy Movies
