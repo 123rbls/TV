@@ -364,6 +364,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LNW0JNR/Clasico.png",FreeTV Clásico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBfzWSD/Fmtv.png", Frecuencia Musical TV 
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
 ..........................................................................................
 
 #EXTINF:-1 tvg-logo="", DOCUMENTALES
