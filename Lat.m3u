@@ -175,7 +175,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RVmyrY2/Accion.png", Rakuten TV Action Movies
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
-#EXTINF:-1 tvg-logo="", Rakuten TV Thriller
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZyKC67n/Thriller.png", Rakuten TV Thriller
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymnzG2WR/Romance.png", Rakuten TV Romance
