@@ -310,6 +310,9 @@ https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsSMZTR9/Butaca.png", Butaca TV 
 https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA
+https://streamer1.nexgen.bz/SYFY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
 https://jmp2.uk/stvp-US1300001GM
 
