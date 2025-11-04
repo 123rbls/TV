@@ -512,7 +512,7 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKVm6R8J/FreeMN.png", Free Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Acción 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD69FtdY/Action.png", Acción 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Free Comedy Network 
@@ -520,6 +520,9 @@ https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH0KZv4H/MovieS.png", Movie Sphere by LionsGate
 https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMbvctq7/TCM.png", TCM
+https://streamer1.nexgen.bz/TCM/index.m3u8
 
 .........................................................................................
 
