@@ -440,6 +440,9 @@ https://jmp2.uk/stvp-USBD300003LK
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
 https://jmp2.uk/stvp-USBC24000223S
 
+#EXTINF:-1 tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png", AMC NETWORK
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC Stories
 https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
 
