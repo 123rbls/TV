@@ -482,6 +482,9 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Channel
 https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSqNPH0v/Universal-M.png", Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_desktopweb_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=4a0fb6c7-43a6-e252-f303-5f82d2d0ac7e&ads._fw_vcid2=512116:4a0fb6c7-43a6-e252-f303-5f82d2d0ac7e&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB1-5&ads._fw_content_genre=Movies&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.19.1&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hy4McYd/Cine.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
