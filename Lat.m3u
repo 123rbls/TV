@@ -64,14 +64,6 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
 .........................................................................................
 
-#EXTINF:-1 tvg-logo="", GUATEMALA
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH4tfwbC/Nim.png", NIM TV
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-.........................................................................................
-
 #EXTINF:-1 tvg-logo="", ESTADOS UNIDOS ESPAÑOL
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
