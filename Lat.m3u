@@ -476,6 +476,9 @@ https://tvpass.org/live/StarzEast/hd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1NJ0TQ/Paramount.png", Paramount Channel
+https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hy4McYd/Cine.png", CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
