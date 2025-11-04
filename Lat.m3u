@@ -310,9 +310,6 @@ https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsSMZTR9/Butaca.png", Butaca TV 
 https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA
-https://streamer1.nexgen.bz/SYFY/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
 https://jmp2.uk/stvp-US1300001GM
 
@@ -428,6 +425,9 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC
+https://streamer2.nexgen.bz/NBC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", Fox East
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
@@ -443,11 +443,17 @@ https://jmp2.uk/stvp-USBC24000223S
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC Stories
 https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA
+https://streamer1.nexgen.bz/SYFY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LX04tLNj/A-E.png", A&E
 https://tvpass.org/live/AEEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
-https://tvpass.org/live/TBSEast/sd
+https://streamer1.nexgen.bz/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBC4c12K/metv.png", Me TV 
+https://streamer1.nexgen.bz/ME_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz 
 https://tvpass.org/live/StarzEast/hd
