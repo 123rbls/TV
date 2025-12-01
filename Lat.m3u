@@ -395,7 +395,7 @@ https://tvpass.org/live/AEEast/hd
 https://streamer1.nexgen.bz/TBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBC4c12K/metv.png", Me TV 
-https://streamer1.nexgen.bz/ME_TV/index.m3u8
+https://fl61.moveonjoy.com/ME_TV/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz1DqgX4/HBO2.png", HBO 2
 https://streamer1.nexgen.bz/HBO2/index.m3u8
