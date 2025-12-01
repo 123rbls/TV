@@ -41,8 +41,8 @@ https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gQNbKMn/Canal2.png", Canal 2
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWtXjzyS/Canal4SV.png", Canal 4
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D7JgWCm/Canal3.png", Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
@@ -76,9 +76,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
-#EXTINF:-1 tvg-logo="", Galavision
-http://xxip25.top:8080/m1pA6E/285356/58770
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
 https://tvpass.org/live/TelemundoEast/sd
 
@@ -99,12 +96,6 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHGc597P/Mega.png", La Mega Mundial 
-https://server40.servistreaming.com:3477/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFrSvN50/RetroCH.png", The Retro Channel 
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 .........................................................................................
 
@@ -550,9 +541,6 @@ https://jmp2.uk/stvp-USBC3600008WY
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO 2010s
 https://jmp2.uk/stvp-USBD120002431
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/674BTStd/exatv.png", EXA TV
-https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JHgQyP0/Xite.png", XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
