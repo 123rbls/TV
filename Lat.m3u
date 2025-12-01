@@ -27,6 +27,9 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8?checkedby:iptvca
 #EXTINF:-1 tvg-logo="https://chtv.hn/wp-content/uploads/2023/12/big-logo-1.png", CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://teleceiba.com/static/img/logo.png", Tele ceiba 7
+https://teleceiba.com/stream/tlcb720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrkVLq7s/Suyapa.png", Suyapa TV
 https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
