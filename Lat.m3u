@@ -413,7 +413,10 @@ https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
 https://streamer1.nexgen.bz/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz 
-https://tvpass.org/live/StarzEast/hd
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6CqGGPp/Encore.png", Starz Encore 
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh6MNdxd/Dove.png", Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
