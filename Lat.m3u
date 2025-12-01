@@ -24,9 +24,6 @@ https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VprX3s0P/Centro.png", TV Centro
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://ceibavision.com/images/logo-white.png", Ceiba Vision
-https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://chtv.hn/wp-content/uploads/2023/12/big-logo-1.png", CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
 
@@ -340,6 +337,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLgqtjzX/Spark.png", SparkTV Luz Y Amor
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qHtfwdZBtE1qhjqzzA6h
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/gritos-tv-by-trinian/logo_20250617_214111_70.png", Gritos TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/910f7b28-c353-40c7-bd9e-87c4cb078007/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/romance-channel/logo_20231219_221635_53.png", Romance Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/fc1ba7ab-d6a9-4de6-b3ec-b44faf33b528/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/mi-raza-canal-plus/logo_20250617_215110_70.png", Mi Raza Canal
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/d31b7f61-81e6-4917-942c-8a1771b8f0b2/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hpbw7bj/Live.png", FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
