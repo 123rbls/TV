@@ -108,6 +108,9 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20mVPJwy/Az7.png", Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png", TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
