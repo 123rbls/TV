@@ -155,6 +155,9 @@ https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp9cB0qP/POP.png", Pop Wold
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
