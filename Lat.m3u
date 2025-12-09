@@ -99,10 +99,10 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 .........................................................................................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxn77vzZ/Estrellas.png", MEXICO
+#EXTINF:-1 tvg-logo="", MEXICO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="", Las Estrellas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxn77vzZ/Estrellas.png", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
