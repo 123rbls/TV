@@ -330,6 +330,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaom
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4w7fpr7M/hits.png", FreeTV Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ibb.co/b5FzsVvW", Oro TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHBfzWSD/Fmtv.png", Frecuencia Musical TV 
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
