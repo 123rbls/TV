@@ -285,8 +285,8 @@ https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vGLn4c/FilmR.png", FilmRise Peliculas Gratis
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fc/variant.m3u8?x-plex-token=Que3VHS1NUb3B64WF1xR&x-plex-advertising-identifier=&x-plex-client-identifier=1d3dedc0-d252-4f0b-88aa-e8c6f459e60f&x-plex-playback-id=p_54e8f2e9-f1d5-4c8d-a7ed-3d519fe66c2b&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome+WebView&x-plex-platform-version=142.0.7444.171&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1765337039&url=3896ba8c69b13b8f631dab0a56d8dc92-a34e9c9126a6c3733c2ae8fb05eba822b271b9e7d23204efa4c462544d59321232423c8b4f6d3ebcb0d5e7b604514033ec0aa039d229ac475ce8e535ebc69c4faa8f5fcc4f5aee5ee76ec5c2cad6df58b7489881ca34f868a7f48f81d6bc48027916b88557aebded98e22ffb87ed9911922c48a8b22d8cd8ee4bd18650e9f894033dcab1b62dbc056093c868deb51a277e4320f53e09e5cc8c3b8856fd2f48f5
 
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F40240240-2170-4172-9de3-df0ba417602c%2FPlex_FilmRise_SeriesGratis_Color_Logo.png", FilmRise Series Gratis
-https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-logo="", Cinepolis
+https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLgqtjzX/Spark.png", SparkTV Luz Y Amor
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Que3VHS1NUb3B64WF1xR
