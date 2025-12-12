@@ -114,6 +114,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png", TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqdsqNwj/Imagen.png", Imagen Televisión
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJVpxRpx/Telemax.png", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
