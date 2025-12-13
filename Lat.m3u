@@ -50,6 +50,9 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jrs9GN7/Canal10.png",
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
