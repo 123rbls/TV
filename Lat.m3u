@@ -50,6 +50,9 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jrs9GN7/Canal10.png", Canal 10
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
@@ -601,22 +604,4 @@ https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVnhB0Pn/RetroP.png", RetroTV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Today's K-Pop 
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Everything '80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png", Stingray Easy Listening 
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
