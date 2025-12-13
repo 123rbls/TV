@@ -97,6 +97,9 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv8yjc2S/Flow.png", MTV Flow Latino 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac78fb0-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3069a856-528d-4d28-945c-042529344819&userId=&serverSideAds=true
+
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", MEXICO
