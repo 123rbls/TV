@@ -35,7 +35,7 @@ https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
 .........................................................................................
 
-#EXTINF:-1 tvg-logo="", EL SALVADOR
+#EXTINF:-1 tvg-logo="", CENTRO AMERICA
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gQNbKMn/Canal2.png", Canal 2
@@ -61,6 +61,9 @@ https://stream.giostreaming.app:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
 .........................................................................................
 
