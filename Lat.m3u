@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="", HONDURAS
+#EXTINF:-1 tvg-logo="", CENTRO AMERICA 
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5yyS7T8/Canal5.png", Canal 5 El Líder
@@ -33,25 +33,8 @@ https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrkVLq7s/Suyapa.png", Suyapa TV
 https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
-.........................................................................................
-
-#EXTINF:-1 tvg-logo="", CENTRO AMERICA
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gQNbKMn/Canal2.png", Canal 2
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D7JgWCm/Canal3.png", Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qqxz1Bf/TCS.png", TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jrs9GN7/Canal10.png", Canal 10
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
@@ -61,6 +44,9 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SWk75ck/11tutv.png", 11 TUTV 
 https://stream.giostreaming.app:19360/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-logo="https://envivo.rtvcanal57.com/img/logocanal57.png", RTV canal 57
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBZgtPkV/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
@@ -84,9 +70,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
 https://tvpass.org/live/TelemundoEast/sd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdFD3NDy/Comedy-Central.png", Comedia Central En Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac5e203-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cf7016f-7b37-42cd-b940-a0a83cf5d4f7&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -117,26 +100,11 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w722090485.m3u8
 #EXTINF:-1 tvg-logo="", MEXICO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxn77vzZ/Estrellas.png", Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20mVPJwy/Az7.png", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqdsqNwj/Imagen.png", Imagen Televisión 
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png", TV Más
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJVpxRpx/Telemax.png", Telemax
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLyJFBMY/Clasica.png", Tele Clásica
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqj26Ysb/Hits.png", Hits Mexicanos
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
@@ -150,10 +118,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e03ae418c7
 ..........................................................................................
 
 #EXTINF:-1 tvg-logo="", ESPAÑA
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
-http://176.65.146.237:8401/play/a0ae/index.m3u8
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRK6S5xG/La1.png", La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
@@ -172,12 +137,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kV0BfMF/CYS.png", Cine Y Series TV
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp9cB0qP/POP.png", Pop Wold
-https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -209,13 +168,19 @@ https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tndxSSV/TopM.png", Rakuten TV Top Movies
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBfzWSD/Fmtv.png", Frecuencia Musical TV 
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp9cB0qP/POP.png", Pop Wold
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
 ..........................................................................................
 
 #EXTINF:-1 tvg-logo="", SUR AMERICA
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjQMMxw3/Vene.png", Venevisión
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
@@ -226,25 +191,28 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T3SzFLh/Bum.png", Bum Televisión
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", PELICULAS
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjhRs66F/CineC.png", Cine Canal
 https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwR63dq7/FX.png", FX
 https://streamer1.nexgen.bz/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Dr6dVV/Studiouniversal.png", Studio Universal Latin America 
 https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
@@ -261,17 +229,11 @@ https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxyrbYJD/CanelaPL.png", Canela TV Pasion Latina
 https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8?rights_holder_id=canela-telenovelas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=ad04da17-f0f6-4627-afbf-d1a4abfe2015&url=https://www.canela.tv/player/channel/canela-telenovelas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zVMjb3GY/CClasico.png", Canela TV  Clasicos
-https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4H4XM5J/TodoC.png", Todo Cine
 https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todocineta-canelatvinternational/cb513a1665736c8884cd2164d3d3e991a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600966413e1ad67dd67b01d7ac3ff10d606373149be9ac79db99140bb6c60f2b2eb86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e41e79c42d7d31fb889ca5a9b469615a042ccd0a994d61385989265bb43e6300c0070249fd134cac805e697cb383fcc3c2a1f1f02abf496a64a3d8743140afcac9be51a9579db9a1a91723ead019b56f641e004a41cabed71b5be84cf50482fa5c7423b49ca87a989895d59db4fda80b8902426ee9c7b7c42df64db27143491f3cc0185c410e4d249e7b17a474daafc448b8d8d90fbbf9f4fa330d8cb86fc572060425e72ec35ab9c6ce43dc468adbc774b3e6365f7f13fa78ad44a420625e4ae7f8e7f71dcd88493cf0f49a90a7a0ab21fb32b1765cb3c786fda25f69638699b19038147569131218f46f3f52ffca9debf7f51dfdfd752c06dfabb0edef370c207555a03bdf7205e0b586b8a840c6e3477d73787b9abb12d446a8ff3c4fab21552433a14560d8ab6b274d6dac32d455b95027766394916c55d9b388e57180378cc4fd0ad0c22b7f440479ecfbef6c70eecaa84b2c5bbff4abc6bd6cbbd0a3b3a4d66ae417d4c0cfd97fd9479a5290417738f1d704bfd265747f89ccae4e3f3064c61bdc84a0e246cd7e45762015760770f89d21bbf80014a7fcbf9e465b687a31752c505ac131bd4b7b609a9bdd4901c5dd9c23d68d744eab21c9109e76e0e91624f75d382f546895f0a38e38351ed56baded5e92e8d1394401175d0aedaf61ad2fb694cee9d46327c5c1b473f1a5a2502adc28e242175e8ae28ef59a6ba06f202671e727386d5501ea4fd7e10987a4a50f48185d9ff9a55429e20a4249d3b43b141446ec0dc28e68685f6f8ac66404f8ce5fc02e8f7c8c9e7fefe0b52472c3c92ca5a1550dd25fb834ea19b186efc8084eb953ad925a216b396b923e173f19fec40fedecaada82e590f0f02bcf2f6fc15c9b54510e82c951e7b6af1e083d56bffc8b30e7c983fb1d67d07dc594d5cc4b8ee0acf21dabe6aca8608fcee73127d7cf5d299c06e7223e21fd127af3934/83/1920x1080_4362312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsSMZTR9/Butaca.png", Butaca TV 
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67367a2d9564224797d5b59c/variant.m3u8?x-plex-token=u6_3VyCs32MkxFohGtBE&x-plex-advertising-identifier=&x-plex-client-identifier=eb323124-4544-482e-824c-38cec10830ad&x-plex-playback-id=p_6a541f0f-3984-4549-8faa-fd30312afdd2&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome+WebView&x-plex-platform-version=142.0.7444.106&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1764723619&url=ebcf0c4d8c4bef70f65411e2688ec980-4c6056a37e35b0ab9de381a0d14ca80848eaf7cbd328eac4eb03aa6073ab4a2f937a296d4555223506398fce39d1d2011fe713af324c54df1c275dbac72fcde781fc5c89f7e3af708c9d2b6211b3c7c52e90356fbe6a6e4e241d609e6eb4ef6d6e5a223dd83c5f70158a227fa91433f777bb86a4986e976cff68d3cc56aef647a7621f444f05c99fd3208bbf65040b88c1468c4dd17d3ed9fd602d2f6df36ec6e0f109da9fac225095e49365d757b217cc44f6bb00a545588457a667e295625268368df7532c4bd3678daf863fcac44e8da09771159e33b1cfb2e80d3164a7f48ea59f8ecce86bbb1e27d5feac00409e4d0edeb3dee3d9669fc052aac1ec87b4bac4a6a60e75b9f75cf6f26b87a2126800d801bbc8de104de723c604b05a8c47260ab602ae61204ff8bf153cfda60388f7a5da6b8ac848838686722863b42f7397b119c73f7b65a04cef0e867d04650f5326535e6547a8ee7027932362127ac86286ca209026a7a92b67a5093a778d964291f467a9d85cad2e5ec698d267af6d3ea88eade32968a489c0cede0b2f6d681da4767e7d8bc0ac743df0dab5fb63a5c4f2e11639ab15da9d01869fb0921628e7291f9409329f3efc9a274a27c84d6310fbfe485e3ee1104b08ba8a2ca2bc32f86f72428fa02e4d7df28a72ba498a690cb629231313f5df1ebe804d8e2e9cecf95299f87f3d9d1a4a2d83fea665bf5f52815a82f3df42a2d1500ab9bff865566e08895481a9c14f0815bb0478c2368a9d0f4bb879042c1223ce6c6fd2b1f4099e025d9fdf1a1012727ccdeb91e36a413f0735820490e2e8efb2cb42311ab2f5690442a4fdee3ce2229126975d955994ba01de6b2ee00b7715724130c7398c6f2998f7768ece32aa0a2362b41ee43c0be4176b1bd91a61c77e6496402ec45391bbc2d88402277125b15c5bb113f3a6d766b610b80d7f6e859d97f834820a19a1b18761192695f840edb394ea1bc9f78c5630dd94d5b89419277c521a349a73a37064df2e7ac122f22bff0b86b224504d6e75a7d513d37b84ba655276b124491d73c2acfbf878045986a5da18e7f202864dc00249c57637d5cedb8714a8b2b031cc522ab99edfaf1a6b8a5d03ff41d7dea66772e2a5f90bb96fd4e19cbe06c8a6630e5cbd5ae456e191ce4f0c2d59e93bf935450cbc07bc84be54e26335022c03cf8498b52076591e817d8366c0f5f0c25dcf0492349fae650afa5d4d9bb3d27a3eb002cff2a072176cdee682498e41a1b3be73836f8fc0e19e48a915f580ceedb0ab78dade509e834956f75621e7a28380e0b088dd914a2437b7bc260ad355429bc947eb8f04133ccd46c48eeb762ae518d605a5d4c833b01eb652024e80d8d239116bfec66d21483090cb66beec0934c847ad2d021b40e70aed4e7ce9b4c6012a97421ad4171ba2cfce7e724dda3c58f923b941b8c58301340dfaedf86ea9b621e6e668a59baab32ca07e0326c37ede372e9585d1038c35225012455076a242694cd23daf17c401ea69c90c1a9a40321e923e323f872ebb8a42656749b1d80a8011bb474552e076f9ddfac6fbf28e13739cc2173792a39cd2536abfd40c1bcfff35dadb0c55ee44fda723e0e64e06e32da7c2b40934f2655309c880c72c617ea6456d34af2867932abe5e120f7a7c1be86116cad1d3feebeb05f989aeae11116c60480878cd0e905b585fa2bca28c2433a2039fbeb2af77ea6c6a863b775f79b22312546adc18360f53960aea9dfc55df2d3a3d47611454546a9b7886a046e866e61e1c9f467502f6fe017ff9d0d637b8698851b22f94177fbb0bc1712f3755199c8e36ea183d916a239a087d4493156b53074eb0dba878dceb0dcd115167e294c809ec4e63b9921962ffb2cd59db509a487326a7b8423ea066f00b719cc56afeb9b72ff94ca80a3641d3dfa2aede0052b53ab77118714a17ccc4857577d8805c4d551ac0805edc3e3b5920317e5c151ff5727ca789fa27f05af9adc8a71e1964096c6129f9aa2fa76d1ae3c38a61022c0a1975b320dd7a822ed2a4a944d82e2e60b69b9512ab2b31ed8d20199bf6c7bf64f2a30bfe31c76f45f69865729a1f963bb0682e635ba6e39a664e3dd98d7db7c9e190e575bc0c37ebd72488e399556b88003c203bc75f4de7b158c88c5650e1ed321c8d68a73c6b9fcefb417640e85e4eb8442cbb2ea036a03a6b1b1f25760029ef50757b09186570e9d935f757030f06d293fa3755f0a485f3bd9647d51463aca88fa701e6d1020d142aca677eabca0c14a08bb7fdf700883fca4124275ef70f266d786abab1a4ad692a02ee1bfd6c17786ac00821f7fef65a6e2f273f492bc31feae6392fa07019252d35aca4e1e883b7913de3970cc9d402c5ad4eea48624ba4b9870f2845a91133dfeb08706da1e878e6af4ff608da78f49aac00a5232a98fa703447c019944ce69597c09e54f95d76687f578496be407df8f32767da38e12df22da62a95dc95a3ef112129c3167e9c1ecefd82ef1870149689b925ba2490cbc5cde6e352df913f509634953c6c06b138b799b73a560e5326428906ad68172d1c56d4119e3c71c07193099cee3eef4e13d67e1e4c2903e0f3b1c4508511d653343b2a6dfa78b64e88e45c490e62695848acce68313fbce5ca1d0bfd58d95e60a3618beb17c5d9c3bd2dd2c7ef
-
-#EXTINF:-1 tvg-logo="", Cine de Oro
-https://jmp2.uk/stvp-USBD2700005KL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
 https://jmp2.uk/stvp-US1300001GM
@@ -324,6 +286,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png", box
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/BZAFJUI/47ACBB024F87/m.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4w7fpr7M/hits.png", FreeTV Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hpbw7bj/Live.png", FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
@@ -348,14 +313,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LNW0JNR/Clasico.png",FreeTV Clásico
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4w7fpr7M/hits.png", FreeTV Hits
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Cine de Oro
+https://jmp2.uk/stvp-USBD2700005KL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh7MSqQ0/Oro.png", Oro TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa/variant.m3u8?x-plex-token=jjxswuWwsRVBFB-1JvP4&x-plex-advertising-identifier=&x-plex-client-identifier=1d3dedc0-d252-4f0b-88aa-e8c6f459e60f&x-plex-playback-id=p_8599a81d-34de-4aba-9722-2dcd0312db70&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome+WebView&x-plex-platform-version=142.0.7444.171&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1765407157&url=f521a6c49f65c639acf63d2dad67fe7d-30b9cb5dc910de3795554acfa81fdde71aff990529735f48a66645bef7aef8870bdb1cf875c441a04596f90984b033a24d07c3454b6425fe675f6467df1bbfd3fc70209786979c45da7af11cddc87d3ac4f1706e9c6e0b85a6b4be7b2d5bc30a3d6dfb4f9e53aa1d29575ef24c1d5c9ec1bc07aa6cbbafdd10f1b2775c837b0912b631304b7b78d8284e6b8584e2e386bc53807f85f8ba31af3882679356fc4ec9960ed14781fae47955adc5fe1a8a19e2d3ae193ebc6a2e1f4bc7702ed7a0aa161e795c7b85e50b631db35d0999ed5065190f95d5e408f63d4d54a7db09863af761ae29abd100d8547ffa28e047bb34c9fa56d89cb9f04ff4269e661ab6427b9acdd950fd7dca25995869cb489bbd48a4da6c989a7527860b674d6b356eacb5191fb90c7eb60a74b4bdfe2ebd7ac58752c0cda163e02c910028073b5b8975709d4627af5d66dd28a446e1e2f362e5650fdd0d4522b509501bd998cc10c3ac2805e0bf2227834af2bb21bb8065766ea2d3993facdfb43f3aa76e2a345d7917c50748a8526b15e928ea933a132aee9bcc827c06ad8cf0a5f98926d6f98b6bc167316477f31e02ee04021b26d6a9cc05cf2671fedbac77f95c6cb5cb1e52e58ebd6a577ad09add55cb09de96b18931814d53038991b84a1ac33796360ad793261badc39afcfb45b4e873735315c14cc072f97549d9359b8327e2697b8796886b8a21f2b17171cc5bbf232a7076a2a14e770acbe567953bf83e0dd4e2172e4126982497d616bb310a41c29b144299d6cc19a3668c5410066ca6a402465fb30437dbbb52baa46a4e032f0d760bd3123a766b927d1b736f07ffe3b68ecd23420d85ad4b97bd3e05b62fdeca844a2bccdce5beab95243d71d2968a1aaa424f68f51ce2c23128ddb4db64209255a929bf36167b9fe8bed5782cdcddfb87dd5695e5e7e68e01f5dc50ddbe35dea851b09aa0a047891d9b1b990ccfaf422ceed07f823e9d37752bb1ece3dd7de1243b71fddde825dbe243daf127d3adc9b15fa6565761729ca3b5fe229dadff87406bde0477fd233ca5a07b8bc714abfb4588edee58cdee8dd1b768113529abc3aa624b5ddb3f5f48284625da9aa2118f5293660a15ba6af2954034e98f1b78cf0ee9b2f86d6296484dfd4e2f18d6d062cebcfa74dac189cce215f7b05d7ea8b604515de30bee6af130892a82611c6b8ff2345f06691291415961a1aaca766a5b3d0c3153a77e21fbcd87e601bfcb21a428ae664a480e58ad3e8435b3d2588052598c3076369ce276ffb436bbb78ede5ad4aea12b5f46f53dd5633b89c5c415f50b9aed5ef85c5646d9e61a544f9aa4c3aae857d678b8c6554bf24e81ae3a528a7caa5ffc5bad38283748409e57cab34a4068f6c0a6d58047693e70cde13785d19f8ed598bd9401c6d9bf1970cb1e1eb2881d5d19585807c604e1486ab026890c6fea1148357663c90e9f5fc6b3efe5de5191bbe23d0db2f2022d5a5dbb4a5855f7f3aaf5045176af81c003f75136d33aa3bc0b8e11dbcc673f1e705d7f04ec30fa14784530a03b04294e101704d7cad5a3932d19959dbfbe939aa42c4ee43c21eaa88e8682e5ac07d388e0b9ebe2f170c18b655e7d274838a3f64a6f4c3ca0ba269a19d96a602e72a39a279a56824eb3db98ba1f0648635a690f2e9a8b1d0adcb222fd1f8d31ddc1e689cc7e238f36a55d85c3575274daaa84a313d05ed37091f6ff7c40f8f1394ba69b6af0425e19cd74de2218cef9bf17a4fcd88498a933a7039b2c9437f64f7a78a9aea136b9e425d8db92cf8f0340562d2d6d9db20cdf7881063e20806026a9b16fc05e09be750f09a34e21c1b2944ebdf7a896fd691e4f98512ab78393f32aaae11cf1b04fc2bcac66b0b3ffb67cc07392a3146e07d8243e8a075671c5217225ec1ab8d97e27baefc6dc7a8fbc9a084acb1d518fa597402d3ef90ae9977fb4a48df9e0572c4deea0f72998c7635fd9360d838277ae6892de99f66b43b36fd58b957a3ccca630b121eec0f153eb440bba0729806349cbb11256d7e93591331fcafebbcc0d3388683c90fd873b741ccb30ffa4917ea40110354ac55d7035e0bde51e6c9ddcbea461bd1c780989a630383d82f723b732349cd688e6cf63fd52babeace09be62e8dc68acd1d6a7f33dc591e95dc9f06b74cf28794d6e9b16b6ed918326063fbb49e1a6c650b85eb3a82f388bfe4041a5216215ce643a071f262c9f5bf80c4f9941dd681440b53ebdd1acde3dfc8485af848f7bef5e458370af979c77ff0f073232a8202e515d66f91eda37bb47fcbfdd86b3fe0b08cc2e3e8b7edcd3bb221fbda80628c79ecab65bf30537038bcf28bc88bc893852b07950ac809608f99dad7b35b59e8c72d8882a93ef8e9b16af052c8928e9be31a2c153ec99f54c18609330baded1424f0d428773f9f91ed3c2dfb0ebf332c7f442b8e2286d89303a2adb012690a31db47a0438f4179bfa86c26c0c84aa2e422b58d3e04ffe8863682af1d81205f3d9fa3a74837e2729380d5b6566fcf001dcfcf2f4a4f7c9e49b1b652be8e118c29c4420bf4847b91c0063ce8815051224f37bc3464f2bbdb037f3781a5503f14931468cb8138495bf792e386d3b72d25e9e453e0b17bc82bb65f267c8532c24db83530eec4e6a66a2ebade387e3a6951b9af82865028526463375312f4b5dadb0d42074066af546aceaf649190392f3574f89deb43f28ca5a0a949b51efc98cb71246cdb90546e2e19ec5f73043a10d8b9495326e9de82681109836b23108804cacffd605af37c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBfzWSD/Fmtv.png", Frecuencia Musical TV 
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVMjb3GY/CClasico.png", Canela TV  Clasicos
+https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
+
 
 ..........................................................................................
 
