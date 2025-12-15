@@ -483,6 +483,9 @@ https://streamer1.nexgen.bz/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6%2FMIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png", Miramax 
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec/variant.m3u8?x-plex-token=LP42N5YEX-3RKt3nsd9K&x-plex-advertising-identifier=&x-plex-client-identifier=1d3dedc0-d252-4f0b-88aa-e8c6f459e60f&x-plex-playback-id=p_d0dda72f-fa30-48a1-a866-51d1be88a685&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome+WebView&x-plex-platform-version=142.0.7444.171&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1765336346&url=31b66f2adfb73e805a505f028d33989f-cafe6cddc3fcc299c8f1fdef323ff2751a9d1de025d78c98f98dcd98d852fdf583eaa3036b68688dbf37cc3564a92503354eac64e398d20f524e1a91631d156ed4866bda19f0d9c9e2083b5bed95e0ce63567212fa940d68962706bb1da1b7eb618ff15b1f28ca72571bc7712eedb85f6284a5c8cc79aed166f54410e8ddd755238fbd624d15de974017c6bcba760c6e8bd5ac803a279b46d2993e87f7443257725561e2a8927a42126e041054e6e7271dfafeb6852f7fb3fd80805c554c76e11f61db7519ef84f8481c739e581c756c
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXGWCCC/24Movies.png", 24 Hours Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", CANALES EN PORTUGUÉS
