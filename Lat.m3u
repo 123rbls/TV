@@ -268,7 +268,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/gritos-tv-by-trinian/logo_20250617_214111_70.png", Gritos TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTBxL1pT/Hallmark.png", Hallmark Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R42pDK7H/Hallmark.png", Hallmark Channel
 https://jmp2.uk/stvp-US1300001GM
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
