@@ -259,6 +259,9 @@ https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://canaldelsol.com/wp-content/uploads/2025/02/logo-rectangulo-oscuro.png", Canal del Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCB9PSs7/Mi-Raza.png", Mi Raza Canal
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLgqtjzX/Spark.png", SparkTV Luz Y Amor
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Que3VHS1NUb3B64WF1xR
 
@@ -279,9 +282,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMqprx1F/CineR.png", Cine Romántico
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991142
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/mi-raza-canal-plus/logo_20250617_215110_70.png", Mi Raza Canal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png", Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/BZAFJUI/47ACBB024F87/m.m3u8
