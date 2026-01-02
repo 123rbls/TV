@@ -247,6 +247,9 @@ https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFx8SCPy/CineE.png", Cine En Español 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac4d090-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3e3edf68-d458-44ae-8c9a-a6b1aa65f445&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HL3GTj46/Estelar.png", Cine Estelar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxV79r1Q/Premiere.png", Cine Premiere 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8ac4a980-7f79-11f0-a87a-e9be664a10a0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8dd0cf2f-0e05-4fa9-a8d4-6f658079a923&userId=&serverSideAds=true
 
