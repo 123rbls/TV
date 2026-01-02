@@ -486,7 +486,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvXGWCCC/24Movies.png", 24 Hours Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35jdbpdj/Bob-Ross.png", The Bob Ross Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp1ZNPqk/Bob-Ross.png", The Bob Ross Channel
 https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 
 .........................................................................................
