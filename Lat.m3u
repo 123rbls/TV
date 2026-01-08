@@ -175,13 +175,10 @@ https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwR63dq7/FX.png", FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4K0wYHj/SonyCine.png", Cine Sony
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nsHxJyV/Sony.png", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png", Box Cinema
@@ -375,8 +372,8 @@ https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LX04tLNj/A-E.png", A&E
-https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 https://streamer1.nexgen.bz/TBS/index.m3u8
