@@ -141,36 +141,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RVmyrY2/Accion.png", Rakuten TV Action Movies
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZyKC67n/Thriller.png", Rakuten TV Thriller
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymnzG2WR/Romance.png", Rakuten TV Romance
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9vghbpF/Family.png", Rakuten TV Family 
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdcXtWF7/CineES.png", Rakuten TV Cine Español
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-logo="", Rakuten TV Comedy Movies
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVxsn2D/Sci-Fi.png", Rakuten TV SCI•FI
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1tndxSSV/TopM.png", Rakuten TV Top Movies
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBfzWSD/Fmtv.png", Frecuencia Musical TV 
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp9cB0qP/POP.png", Pop Wold
-https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
