@@ -187,9 +187,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/BZAFJUI/47ACBB024F87/m.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HJZmWYC/Sol.png", Canal del Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Dr6dVV/Studiouniversal.png", Studio Universal Latin America 
-https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere
 https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
@@ -346,10 +343,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", ESTADOS UNIDOS INGLES 
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+https://jmp2.uk/stvp-USBD300002TU
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC
 https://streamer2.nexgen.bz/NBC/index.m3u8
@@ -369,11 +363,11 @@ https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC Stories
 https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNcZrbW/USA.png", USA
-http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Dr6dVV/Studiouniversal.png", Studio Universal Latin America 
+https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
 https://streamer1.nexgen.bz/TBS/index.m3u8
