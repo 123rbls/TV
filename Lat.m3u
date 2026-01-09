@@ -92,9 +92,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2LfjCpC/Flow.png", MTV Flow Latino
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ae94577e-83c6-11f0-b65c-6417ed50cc5a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cfb36af-b0ec-475e-ae61-d4595f1d76ab&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nqNzNjXd/MITV.png", Mi TV Clasica
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w722090485.m3u8
-
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", MEXICO
