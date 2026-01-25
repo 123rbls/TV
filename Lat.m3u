@@ -15,9 +15,6 @@ https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6sQsWPv/11HN.png", Canal 11 Honduras 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHXv66jT/Canal8.png", Canal 8
-https://cdn2.castx.live/canal8/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RfG0wNw/Lenca.png", Lenca TV 
 https://lencatelevision.com/hls/stream.m3u8?cachebust=68fec1ca
 
@@ -231,9 +228,6 @@ https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3HXZbn/Cinepolis.png", Cinepolis
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCB9PSs7/Mi-Raza.png", Mi Raza Canal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLgqtjzX/Spark.png", SparkTV Luz Y Amor
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Que3VHS1NUb3B64WF1xR
