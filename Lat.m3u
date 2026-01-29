@@ -173,7 +173,7 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjhRs66F/CineC.png", Cine Canal
-https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+http://143.244.60.30/CINEMAX/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
