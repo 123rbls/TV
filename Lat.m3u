@@ -167,6 +167,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4mvGwS0/Bravo.png", Bravo TV 
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", PELICULAS
