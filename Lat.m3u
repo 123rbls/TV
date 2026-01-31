@@ -66,7 +66,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+https://k1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -123,9 +123,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e03ae418c7
 #EXTINF:-1 tvg-logo="", ESPAÑA
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXrjDb57/Antena3.png", Antena 3
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRK6S5xG/La1.png", La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
 
@@ -170,22 +167,16 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T3SzFLh/Bum.png", Bum Televisión
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4mvGwS0/Bravo.png", Bravo TV 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", PELICULAS
 https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjhRs66F/CineC.png", Cine Canal
-http://143.244.60.30/CINEMAX/index.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwR63dq7/FX.png", FX
-http://38.199.6.1:17001/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nsHxJyV/Sony.png", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -203,7 +194,7 @@ https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S74wzd7Y/Adrenalina.png", Adrenalina Pura
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
+https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezonespanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4H4XM5J/TodoC.png", Todo Cine
 https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todocineta-canelatvinternational/cb513a1665736c8884cd2164d3d3e991a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600966413e1ad67dd67b01d7ac3ff10d606373149be9ac79db99140bb6c60f2b2eb86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e41e79c42d7d31fb889ca5a9b469615a042ccd0a994d61385989265bb43e6300c0070249fd134cac805e697cb383fcc3c2a1f1f02abf496a64a3d8743140afcac9be51a9579db9a1a91723ead019b56f641e004a41cabed71b5be84cf50482fa5c7423b49ca87a989895d59db4fda80b8902426ee9c7b7c42df64db27143491f3cc0185c410e4d249e7b17a474daafc448b8d8d90fbbf9f4fa330d8cb86fc572060425e72ec35ab9c6ce43dc468adbc774b3e6365f7f13fa78ad44a420625e4ae7f8e7f71dcd88493cf0f49a90a7a0ab21fb32b1765cb3c786fda25f69638699b19038147569131218f46f3f52ffca9debf7f51dfdfd752c06dfabb0edef370c207555a03bdf7205e0b586b8a840c6e3477d73787b9abb12d446a8ff3c4fab21552433a14560d8ab6b274d6dac32d455b95027766394916c55d9b388e57180378cc4fd0ad0c22b7f440479ecfbef6c70eecaa84b2c5bbff4abc6bd6cbbd0a3b3a4d66ae417d4c0cfd97fd9479a5290417738f1d704bfd265747f89ccae4e3f3064c61bdc84a0e246cd7e45762015760770f89d21bbf80014a7fcbf9e465b687a31752c505ac131bd4b7b609a9bdd4901c5dd9c23d68d744eab21c9109e76e0e91624f75d382f546895f0a38e38351ed56baded5e92e8d1394401175d0aedaf61ad2fb694cee9d46327c5c1b473f1a5a2502adc28e242175e8ae28ef59a6ba06f202671e727386d5501ea4fd7e10987a4a50f48185d9ff9a55429e20a4249d3b43b141446ec0dc28e68685f6f8ac66404f8ce5fc02e8f7c8c9e7fefe0b52472c3c92ca5a1550dd25fb834ea19b186efc8084eb953ad925a216b396b923e173f19fec40fedecaada82e590f0f02bcf2f6fc15c9b54510e82c951e7b6af1e083d56bffc8b30e7c983fb1d67d07dc594d5cc4b8ee0acf21dabe6aca8608fcee73127d7cf5d299c06e7223e21fd127af3934/83/1920x1080_4362312/index.m3u8
