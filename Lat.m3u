@@ -351,17 +351,8 @@ https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC Stories
 https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xksRXkv/AXN.png", AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Dr6dVV/Studiouniversal.png", Studio Universal Latin America 
-https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDJtSPDY/Lifetime.png", Lifetime 
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpcDJbk2/tbs.png", TBS
-https://streamer1.nexgen.bz/TBS/index.m3u8
+https://fl31.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBC4c12K/metv.png", Me TV 
 https://fl61.moveonjoy.com/ME_TV/tracks-v1a1/mono.ts.m3u8
@@ -373,7 +364,7 @@ https://fl1.moveonjoy.com/HBO/index.m3u8
 https://fl31.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spcFnnJ2/Cinemax.png", Cinemax
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+https://fl1.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz 
 https://fl1.moveonjoy.com/STARZ/index.m3u8
@@ -435,9 +426,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvXGWCCC/24Movies.png", 24 Hours Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp1ZNPqk/Bob-Ross.png", The Bob Ross Channel
-https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
-
 .........................................................................................
 
 #EXTINF:-1 tvg-logo="", CANALES EN PORTUGUÉS
@@ -475,9 +463,6 @@ https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cStyQt93/Fesperanca.png", Filmelier TV Esperança 
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k65850MH/Kuriakos.png",Kuriakos Cine
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere 
 https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist.m3u8
@@ -519,9 +504,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/rockola-television/logo_20250109_231904_70.png", Rockola TV
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/IU2UNEQ/6BF095EB3851/m.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nfwwfJ1/Trace.png", Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-
 
 
