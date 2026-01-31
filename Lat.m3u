@@ -89,9 +89,6 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", Historia
-https://jmp2.uk/stvp-US2600019IC
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JHgQyP0/Xite.png", XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
 
@@ -278,7 +275,10 @@ https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-c
 ..........................................................................................
 
 #EXTINF:-1 tvg-logo="", DOCUMENTALES
-https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
+https://jmp2.uk/stvp-US2600019IC
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RXYR25j/History.png", Historia
+https://jmp2.uk/stvp-US2600019IC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
