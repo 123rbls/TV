@@ -370,19 +370,19 @@ https://fl61.moveonjoy.com/ME_TV/tracks-v1a1/mono.ts.m3u8
 https://fl1.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz1DqgX4/HBO2.png", HBO 2
-https://streamer1.nexgen.bz/HBO2/index.m3u8
+https://fl31.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lhc9Y4kr/HBO.png", HBO+
-https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
+https://fl31.moveonjoy.com/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGnLV0kg/HBOFam.png", HBO Family
-https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
+https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="", HBO Mundi
-https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
+https://fl31.moveonjoy.com/HBO_MUNDI/index.m3u8
 
 #EXTINF:-1 tvg-logo="", HBO Extreme
-https://streamer1.nexgen.bz/HBO_XTREME/index.m3u8
+https://fl31.moveonjoy.com/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kXJj6nf/starz.png", Starz 
 https://fl1.moveonjoy.com/STARZ/index.m3u8
