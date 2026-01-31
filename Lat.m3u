@@ -312,6 +312,18 @@ https://jmp2.uk/stvp-USBD300003LK
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqjpsQR/Ion-Mystery.png", ion Mystery
 https://jmp2.uk/stvp-USBC24000223S
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S41PKGBP/ABC.png", ABC
+https://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBx84Sq/CBS.png", CBS
+https://fl1.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpptb8nY/Fox.png", FOX
+https://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ypkhFjc/NBC.png", NBC 
+https://fl1.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png", AMC NETWORK
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 
