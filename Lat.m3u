@@ -278,22 +278,13 @@ https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-c
 ..........................................................................................
 
 #EXTINF:-1 tvg-logo="", DOCUMENTALES
-https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWPW9M2/History.png", History en Español
-https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4xnZkpX/H2.png", History 2 Latino América
-https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTzZPY3C/BBCEarth.png", BBC Earth
 https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature en Español 
-https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hx7xzTtv/CAnimales.png", Curiosity Animales
 https://jmp2.uk/stvp-US2200001IY
@@ -303,12 +294,6 @@ https://jmp2.uk/stvp-US22000020U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1G1hMR1J/Love-Planet.png", Love the Planet
 https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XmPN3Zk/Discovery.png", Discovery Español 
-https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", Nat Geo
-https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
