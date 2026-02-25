@@ -135,9 +135,6 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZmYFhD3/emocion.png", Emoción Atres TV
 https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3 Cine
-http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqqGrtyV/TVE24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
@@ -166,6 +163,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4mvGwS0/Bravo.png", Bravo TV 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9cydyp/amc.png", AMC
+http://38.97.240.11:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
