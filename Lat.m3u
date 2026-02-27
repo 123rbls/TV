@@ -199,8 +199,8 @@ https://amg00740-sofa-amg00740c20-lg-mx-8976.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9GX5wQs/ENow.png", Electric Now Español
 https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Xtrema Acción
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Mega Cine TV
+https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8
