@@ -27,12 +27,6 @@ https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrkVLq7s/Suyapa.png", Suyapa TV
 https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jzXqKy1/C6.png", Canal 6
-https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21dTSRXS/C12.png", Canal 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxvMbQg/C21.png", Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
