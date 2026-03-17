@@ -39,7 +39,6 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
-.........................................................................................
 
 #EXTINF:-1 tvg-logo="", ESTADOS UNIDOS ESPAÑOL
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
@@ -86,10 +85,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JHgQyP0/Xite.png", XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
 
-.........................................................................................
 
-#EXTINF:-1 tvg-logo="", MEXICO
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="", Vix ja ja ja
+https://linear-310.frequency.stream/dist/lg-us/310/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
