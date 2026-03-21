@@ -1,7 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="", CENTRO AMERICA 
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+CENTRO AMERICA 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5yyS7T8/Canal5.png", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -27,9 +26,6 @@ https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxvMbQg/C21.png", Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SWk75ck/11tutv.png", 11 TUTV 
-https://stream.giostreaming.app:19360/canal11/canal11.m3u8
-
 #EXTINF:-1 tvg-logo="https://envivo.rtvcanal57.com/img/logocanal57.png", RTV canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
@@ -39,9 +35,7 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
-
-#EXTINF:-1 tvg-logo="", ESTADOS UNIDOS ESPAÑOL
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+ESTADOS UNIDOS 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
@@ -52,8 +46,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo 
-https://k1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=4EMsPDdV5ME6zgTYgnO56g&expires=1773694951&user_id=ekpBZUN3a25xZkhoeVp5VHlVUlJrdVpGUjhpZUVEZVFYZ3IzeVRCSg==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 1
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L6q94kq/Estrella-TV.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -100,10 +94,7 @@ https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JHgQyP0/Xite.png", XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
 
-..........................................................................................
-
-#EXTINF:-1 tvg-logo="", ESPAÑA
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+ESPAÑA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRK6S5xG/La1.png", La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
@@ -138,13 +129,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
-..........................................................................................
-
-#EXTINF:-1 tvg-logo="", SUR AMERICA
-https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjQMMxw3/Vene.png", Venevisión
-https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+SUR AMERICA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20zzxqzj/Retro.png", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
@@ -244,10 +229,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaom
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVMjb3GY/CClasico.png", Canela TV  Clasicos
 https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
 
-..........................................................................................
-
-#EXTINF:-1 tvg-logo="", DOCUMENTALES
-https://jmp2.uk/stvp-US2600019IC
+DOCUMENTALES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4Lm36ST/History.png", Historia
 https://jmp2.uk/stvp-US2600019IC
@@ -270,10 +252,7 @@ https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-.........................................................................................
-
-#EXTINF:-1 tvg-logo="", ESTADOS UNIDOS INGLES 
-https://jmp2.uk/stvp-USBD300002TU
+ESTADOS UNIDOS INGLES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtNXp4Zs/ion.png", ion Television
 https://jmp2.uk/stvp-USBD300002TU
@@ -341,10 +320,7 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Pop
 https://jmp2.uk/stvp-USBC3600008WY
 
-.........................................................................................
-
-#EXTINF:-1 tvg-logo="", CANALES EN PORTUGUÉS
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+CANALES EN PORTUGUÉS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvYNFfJ6/Globo.png", Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -382,13 +358,7 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXyCL9jx/SonyOC.png", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-...........................................................................
-
-#EXTINF:-1 tvg-logo="", MUSICA 
-https://jmp2.uk/stvp-USBB4400015F5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 1
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+MUSICA 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 2
 https://jmp2.uk/stvp-USBC3600015GF
