@@ -35,9 +35,6 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dw5MM5Wk/Canal13.png", Canal 13 Esquipulas
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-
 ESTADOS UNIDOS 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
@@ -87,6 +84,9 @@ https://jmp2.uk/stvp-USBD3300007PB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymxR226D/Azteca.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqdsqNwj/Imagen.png", Imagen TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-logo="", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
@@ -145,6 +145,12 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 PELICULAS
 
+#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wN3HXZbn/Cinepolis.png", Cinepolis
+https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", Xumo Peliculas
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992262&ads.xumo_streamId=99992262&ads.channelId=99992262&ads.csid=lgchannels_mx_peliculasgratis_ssai&ads.channelName=peliculasgratis_mx&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=es&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
@@ -156,9 +162,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccz7JZdm/Movie-Sphere.png", MovieSphere
 https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YHCDkv9/Bigtime.png", Bigtime
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
@@ -189,9 +192,6 @@ https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wN3HXZbn/Cinepolis.png", Cinepolis
-https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx241003/My-Time-Movie.png", My Time Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
