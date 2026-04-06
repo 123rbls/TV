@@ -67,7 +67,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JHgQyP0/Xite.png", XITE Nuevo Latino
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25aac646-3806-4e44-b1aa-cd8e3407f3c3%2Fxitenuevolatino_logo_light_-_Arlette_FiranRDX.png", XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
@@ -85,7 +85,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kTsRyw/TN.png", Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8?rights_holder_id=todo-novelas-mas-pasiones&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=ccdaa45d-4cd8-411f-9a39-1171c6e1cae6&url=https://www.canela.tv/player/channel/todo-novelas-mas-pasiones&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JHgQyP0/Xite.png", XITE Siempre Latino
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png", XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
 
 ESPAÑA
@@ -159,6 +159,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png", Cine En Español
 https://amg02724-somos-amg02724c1-lg-ar-681.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-lgar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7720edee-5e05-4391-b46b-94579db1bf73%2FHDC_logo_light_-_Jordan_Warkol.png", Historias de Corazón
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69791422623bdf0fc9bc3ea6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=3CV32TAwbipSEnzoLkqf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZJCNyjy/filmelier.png", Filmelier TV
 https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
