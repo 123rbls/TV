@@ -125,6 +125,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
+#EXTINF:-1 tvg-logo="https://alba-do-antena7.cdn.mediatiquepress.com/wp-content/uploads/2023/07/8a1cd4762ba17011.png", Antena 7
+https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
+
 PELICULAS
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
