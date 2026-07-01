@@ -32,18 +32,6 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5xr38xm/Tv4-1.png", TV Cuatro 4.1
-https://5ca3e84a76d30.streamlock.net/tv4gto/smil:tv4gto.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgWfGk3b/TV4-2.png", TV Cuatro 4.2
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tcrNT3g/TV4-3.png", TV Cuatro 4.3
-https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jw3ztq4j/Tv4-4.png", TV Cuatro 4.4
-https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8
-
 ESTADOS UNIDOS 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
@@ -96,6 +84,18 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqdsqNwj/Imagen.png", Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5xr38xm/Tv4-1.png", TV Cuatro 4.1
+https://5ca3e84a76d30.streamlock.net/tv4gto/smil:tv4gto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgWfGk3b/TV4-2.png", TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tcrNT3g/TV4-3.png", TV Cuatro 4.3
+https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jw3ztq4j/Tv4-4.png", TV Cuatro 4.4
+https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6kTsRyw/TN.png", Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8?rights_holder_id=todo-novelas-mas-pasiones&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=ccdaa45d-4cd8-411f-9a39-1171c6e1cae6&url=https://www.canela.tv/player/channel/todo-novelas-mas-pasiones&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
