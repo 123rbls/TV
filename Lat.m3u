@@ -310,6 +310,14 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXyCL9jx/SonyOC.png", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc9hmCzb/Carac1.png", Carac 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjC5hgzx/Carac2.png", Carac 2
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdRxjh4X/Carac3.png", Carac 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 MUSICA 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino 2
