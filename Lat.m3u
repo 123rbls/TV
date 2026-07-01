@@ -32,6 +32,18 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5xr38xm/Tv4-1.png", TV Cuatro 4.1
+https://5ca3e84a76d30.streamlock.net/tv4gto/smil:tv4gto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgWfGk3b/TV4-2.png", TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tcrNT3g/TV4-3.png", TV Cuatro 4.3
+https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jw3ztq4j/Tv4-4.png", TV Cuatro 4.4
+https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8
+
 ESTADOS UNIDOS 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
